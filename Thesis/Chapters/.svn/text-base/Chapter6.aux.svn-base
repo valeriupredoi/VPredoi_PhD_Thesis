@@ -1,0 +1,64 @@
+\relax 
+\citation{lvc:s6grb,Harry:2010fr}
+\citation{Abadie:2010uf,Collaboration:2009kk}
+\citation{HurleyHTML}
+\citation{heasarc}
+\citation{gcns}
+\citation{suzaku}
+\citation{integral}
+\citation{swift}
+\citation{konus}
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Search for gravitational waves associated with the InterPlanetary Network gamma-ray bursts -- Methodology}{154}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{Chapter Six}{{6}{154}}
+\citation{HurleyHTML}
+\citation{HurleyHTML}
+\citation{Hurley:2002wv,Hurley:1999ym}
+\citation{HurleyHTML}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces The IPN schematics: triangulating the position of a GRB using three IPN spacecraft (S1, S2 and S3). Using three satellites we obtain two IPN annuli that intersect to form two error boxes. Reference \cite  {HurleyHTML}}}{155}}
+\newlabel{fig:triangulation}{{6.1}{155}}
+\newlabel{IPNtriangulation}{{6}{155}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.1}The IPN triangulation mechanism}{155}}
+\newlabel{IPNeqn1}{{6.1}{156}}
+\newlabel{IPNeqn2}{{6.2}{156}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.2}The IPN GRB error box construction}{156}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.2}{\ignorespaces Error box construction: red lines correspond to the Konus-WIND ecliptic latitude bands, blue lines are the 3--$\sigma $ IPN1-2 annulus and magenta lines are the 3-$\sigma $ IPN1-3 annulus obtained by triangulation (in this case we have three IPN spacecraft observing the same burst). The error boxes are the solid regions bounded by the intersections of the IPN annuli and ecliptic bands. }}{157}}
+\newlabel{fig:error_box}{{6.2}{157}}
+\newlabel{errorbox}{{6.1}{157}}
+\citation{Abbott:2007kv,Abadie:2010px,virgostatus}
+\citation{Harry:2010fr}
+\citation{lvc:s6grb}
+\citation{Harry:2010fr,Abadie:2010uf,Collaboration:2009kk}
+\citation{Abadie:2010uf}
+\@writefile{toc}{\contentsline {section}{\numberline {6.3}Determining the GRB time of arrival}{158}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.4}Gravitational waves data availability}{158}}
+\citation{Abbott:2007kv,Abadie:2010px,virgostatus}
+\citation{Fairhurst:2010is}
+\citation{Abadie:2010yba,Abbott:2009dk}
+\citation{Abadie:2010uf,Collaboration:2009kk}
+\citation{Abadie:2010uf,Collaboration:2009kk}
+\citation{Abbott:2007rh}
+\@writefile{lot}{\contentsline {table}{\numberline {6.1}{\ignorespaces The short S5/VSR1 IPN GRB sample - 14 with data from multiple non-H1H2-only GW detectors and well localized bursts (error box area $\Delta A <$100$\nobreakspace  {}\mathrm  {deg}^2$); 6 H1H2-only poorly localized bursts; 6 multiple GW detectors for poorly localized bursts; 3 bursts previously analyzed and published. $\Delta t$ represents the time of arrival error. The IPN satellites that observed the bursts: S - Suzaku, Sw - \emph  {Swift}, I - INTEGRAL, M - MESSENGER, MO - Mars Odyssey, K - Konus-WIND, H - HESSI (RHESSI).}}{162}}
+\newlabel{tab:ipn_grb}{{6.1}{162}}
+\@setckpt{Chapters/Chapter6}{
+\setcounter{page}{163}
+\setcounter{equation}{2}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{6}
+\setcounter{section}{4}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{2}
+\setcounter{table}{1}
+\setcounter{NAT@ctr}{0}
+\setcounter{parentequation}{114}
+}

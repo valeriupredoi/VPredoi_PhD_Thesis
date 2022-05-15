@@ -1,0 +1,111 @@
+\relax 
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Improving searches for GW associated with GRBs}{123}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{Chapter Five}{{5}{123}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Introduction}{123}}
+\citation{Nakar:2007}
+\newlabel{grb_p}{{5.1}{124}}
+\citation{Nakar:2007}
+\citation{Colaboration:2011nz}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Background estimation using timeslides}{125}}
+\citation{Mukhopadhyay:2009qh}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.1}Coincidence window estimation}{126}}
+\newlabel{deltatro12}{{5.3}{126}}
+\citation{Robinson:2008un}
+\citation{Mukhopadhyay:2009qh}
+\citation{Mukhopadhyay:2009qh}
+\newlabel{rectum}{{5.4}{127}}
+\newlabel{rectum2}{{5.5}{127}}
+\newlabel{xellipse}{{5.7}{128}}
+\newlabel{xellipse0}{{5.8}{128}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.2}False Alarm Probability}{128}}
+\citation{Was:2009vh}
+\newlabel{PoissonApprox}{{5.9}{129}}
+\newlabel{pr}{{5.10}{129}}
+\newlabel{far_c}{{5.11}{129}}
+\@writefile{toc}{\contentsline {subsubsection}{Coincident GRB--GW search: frequentist FAP}{129}}
+\newlabel{trueFAP}{{5.13}{129}}
+\newlabel{peiN}{{5.14}{130}}
+\@writefile{toc}{\contentsline {subsubsection}{Coincident GRB--GW search: Bayesian FAP}{130}}
+\newlabel{fap0b}{{5.20}{131}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces Probability distribution function $p(q|k_0=1\nobreakspace  {}\mathrm  {and}\nobreakspace  {}2,N_0=300)$ as a function of $q$. We notice that the maximum FAP, $q_0$, will increase with $k_0$, as expected; we also note that the width of the distribution increases with $k_0$, in other words, the FAP computation becomes less precise for events with higher maximum FAP.}}{132}}
+\newlabel{fap_distr}{{5.1}{132}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.3}False Alarm Probability for $S$ Timeslides}{132}}
+\citation{Was:2009vh}
+\newlabel{thefar}{{5.25}{133}}
+\newlabel{sigmatime}{{5.26}{133}}
+\newlabel{eq_saturation}{{5.27}{133}}
+\newlabel{timeslidesmax}{{5.28}{133}}
+\newlabel{fractionalerror}{{5.30}{134}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.4}Different scenarios for FAP and error}{135}}
+\@writefile{toc}{\contentsline {paragraph}{Fixed time--mass coincidence window}{135}}
+\@writefile{lot}{\contentsline {table}{\numberline {5.1}{\ignorespaces False alarm rates and their errors for different combinations of trigger rates for a simple two--detector analysis in the cases of ``zero--lag'' (no timeslides, S=0) and S=100 timeslides. Trigger rates $R_1$ and $R_2$ are used in equations (5.25\hbox {}) and (5.26\hbox {}) to calculate the FAR and its error, $\sigma $; also in equation (5.28\hbox {}) to estimate the ceiling number of timeslides, $S_{\mathrm  {c}}$. This illustrates the gain in confidence from a low--and--equal--trigger rates case. The very low trigger rates cases imply that the false alarm rate can be quoted only as a confidence interval [$-\sigma ,\sigma $] that approaches [$-10^{-6}, 10^{-6}$] for trigger rates in the mHz region. We repeat the last row in the second section of the table; this is motivated by a choice of very low single detector trigger rates allowing the performance of a considerable amount of timesliding ($S=10^3$, permitted by equation (5.28\hbox {})), in the case of an analyzed stretch of 2000 s, that, in turn, combined with very low and roughly equal single detector trigger rates (mHz), contribute to significantly lowering the $\sigma $ value of the FAR to reach $\approx 10^{-9}$ Hz and its error $\approx 10^{-7}$ Hz.}}{136}}
+\newlabel{xes}{{5.1}{136}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.5}Time--mass coincidence window function of threshold SNR}{137}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces False alarm rate variation with threshold SNR $\rho _0$ (continuous line) and its error (dashed lines) for $T=6$ s and a sequence of $S=10^n$ timeslides where $n=\mathaccentV {bar}016{0,11}$, the furthest error line from the FAR line is for $n=0$ and the closest for $n=11$; vertical lines corresponding to $\rho _0$=5,6,7,8 and 9, log--log plot. The dashed contours representing the $\sigma $ of the FAR, for constant number of timeslides, reveal two very important findings: the error saturates and does not decrease anymore even if we would perform an infinite number of timeslides (this was also mentioned in equation (5.27\hbox {}), explaining the existence of a ceiling number of timeslides, above which there is no decrease in error); and justifies the performance of timeslides in order obtain a reduced error on the false alarm rate: the error decreases with increasing $S$.}}{139}}
+\newlabel{FAR_threshold}{{5.2}{139}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.6}Repeating triggers and trigger occurrence rates}{139}}
+\newlabel{occrate1}{{5.38}{140}}
+\newlabel{poissontriggers}{{5.39}{140}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces Histogram of number of trigger occurrences in coincidences for a test GW--GRB coincident analysis with $S=160$ timeslides (for one of the detectors; normalization factor of 300 on the $y$--axis). Fitted (the dots) is the theoretical (expected) Poisson distribution of the number of occurrences, given by equation (5.39\hbox {}). The theoretical Poisson fit overestimates the number of triggers with low occurrence and underestimates the number of triggers with higher occurrence. This can be explained by correlations in trigger times due to non--Gaussian ``glitches''. We do not, however, notice a significant deviation from the predicted distribution; the expected occurrence for a fixed single detector trigger rate of 50 Hz, coincidence window width of $10^{-3}$ and 160 timeslides is $z=8$; the histogram peaks at roughly 5 occurrences.}}{141}}
+\newlabel{poissonD}{{5.3}{141}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.7}Conclusions}{141}}
+\citation{gcn9760}
+\citation{Abbott:2009dk,Abadie:2010yba}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Implementing timeslides in the analysis pipeline}{142}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.1}Test GRB}{142}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.2}Implementation of timeslides}{142}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.4}{\ignorespaces Left figure: histogram of L1 triggers that participate in second--stage coincidences as function of SNR for GRB090809B. The majority of the triggers are at low SNR, near threshold; a tail of high--SNR ``glitches'' is present, revealing a non--Gaussian distribution of trigger events. Right figure: histogram of V1 triggers that participate in second--stage coincidences as function of SNR for GRB090809B. The majority of the triggers are at low SNR but in this case the spread is more even across the SNR values with a much shorter tail of ``glitches''.}}{143}}
+\newlabel{V1triggers}{{5.4}{143}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.5}{\ignorespaces Two--dimensional trial--slide veto mask designed to cluster coincidences in 6--s trials and apply vetoes in the case of a GRB analysis with timeslides: veto times (times of bad detector data) are overlapped with the ``zero--lag'' (Slide 0) that is partitioned in 6--s trials; the trials that fall during the veto times are marked as unwanted (full color here in the figure, example Trial 1) and none of the coincidences found in these trials will be considered for analysis. The first slide is built by timeshifting by a certain amount (usually multiples of 6--s, exactly 6--s in this figure, or the length of a trial) the whole ``zero--lag'' and re--attaching the remainder to the other end of the data stretch (Trial 1 here); the second slide is built in the same manner with reattaching the remainder (here it would be Trial 2) and so on. After $S$ timeshifts we will have a 2--dimensional (in trial along one dimension and slide number along the other) mask populated with valid and vetoed trials. We apply this mask to the actual time--shifted GW data and retain only the coincidences found in the un--vetoed trials.}}{144}}
+\newlabel{slidesGRB}{{5.5}{144}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.3}Test GRB results}{145}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.6}{\ignorespaces Cumulative histogram of the loudest background events: left figure in the ``zero--lag'' case in the low chirp mass bin -- the ``loudest'' events (highest effective SNR) populate the tail of the distribution at FAP of order 1/300; right figure in the timeslides (160 timeslides) case in the low chirp mass bin -- the ``loudest'' events (highest effective SNR) populate the tail of the distribution at FAP of order 1/$300 \times 160$$\approx 2 \times 10^{-5}$.}}{145}}
+\newlabel{datimeslides}{{5.6}{145}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.7}{\ignorespaces Background distribution (continuous line) and loudest on--source event (dashed line): left figure when no timeslides are performed (``zero--lag''); right figure when 160 timeslides are performed. The timeslides produce events louder that the ``zero--lag'' loudest events.}}{146}}
+\newlabel{090809B_onsource_slides}{{5.7}{146}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.4}Timeslides in the coherent search}{146}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.4}Restriction on inclination angle for nearly face--on binaries}{146}}
+\citation{Burrows:2006ar}
+\acronymused{GW}
+\acronymused{GW}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.1}Theoretical considerations}{147}}
+\@writefile{toc}{\contentsline {subsubsection}{Approximate case $\iota \rightarrow 0$}{147}}
+\citation{Harry:2010fr}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.8}{\ignorespaces $\qopname  \relax o{cos}\iota $ (continous line) its second--order approximation $1- \frac  {{\iota }^2}{2}$ obtained by Taylor--expanding it around 0 (dashed line) and $\frac  {1+\qopname  \relax o{cos}^2 \iota }{2}$ (dash--dot line). The function and its approximants are almost identical up to high values ($\approx $40 degrees). The same behavior can be seen by Taylor--expanding $\qopname  \relax o{cos}\iota $ around $\pi $, with a sign reversion.}}{148}}
+\newlabel{cos_and_approximant}{{5.8}{148}}
+\newlabel{eqn:a1}{{5.42}{148}}
+\newlabel{eqn:a2}{{5.43}{148}}
+\newlabel{eqn:a3}{{5.44}{148}}
+\newlabel{eqn:a4}{{5.45}{148}}
+\newlabel{liken}{{5.50}{150}}
+\@writefile{toc}{\contentsline {subsubsection}{Approximate case $\iota \rightarrow \pi $}{150}}
+\newlabel{eqn:a12}{{5.55}{150}}
+\newlabel{eqn:a22}{{5.56}{150}}
+\newlabel{eqn:a32}{{5.57}{151}}
+\newlabel{eqn:a42}{{5.58}{151}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.9}{\ignorespaces Difference between two $\chi ^2$ distributions with 2 degrees of freedom (DOF) each (dashed red line) and one with 4 DOF (blue continuous line) -- semilog--$y$; the $\rho ^2$ represents the network SNR. Imposing a $\iota \rightarrow 0$ or $\iota \rightarrow \pi $ condition in the analysis, generates an SNR that is two $\chi ^2$ ,2 DOF each, distributed, whereas the standard coherent SNR is $\chi ^2$ ,4 DOF, distributed. We notice a decrease of FAP at fixed SNR of roughly one order of magnitude and an increase in sensitivity at fixed FAP of roughly 5\%.}}{152}}
+\newlabel{chi_2_and_4}{{5.9}{152}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.5}Discussion}{152}}
+\@setckpt{Chapters/Chapter5}{
+\setcounter{page}{154}
+\setcounter{equation}{61}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{5}
+\setcounter{section}{5}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{9}
+\setcounter{table}{1}
+\setcounter{NAT@ctr}{0}
+\setcounter{parentequation}{114}
+}

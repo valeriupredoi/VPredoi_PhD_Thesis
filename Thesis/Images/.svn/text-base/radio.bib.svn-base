@@ -1,0 +1,990 @@
+@Article{Abbott:2007kv,
+     author    = "{Abbott, B.P. et. al.}",
+  collaboration = "{LIGO Scientific}",
+     title     = "{LIGO: The Laser Interferometer Gravitational-Wave
+                  Observatory}",
+     journal   = "Rept. Prog. Phys.",
+     volume    = "72",
+     year      = "2009",
+     pages     = "076901",
+     eprint    = "0711.3041",
+     archivePrefix = "arXiv",
+     primaryClass  =  "gr-qc",
+     doi       = "10.1088/0034-4885/72/7/076901",
+     SLACcitation  = "%%CITATION = 0711.3041;%%"
+}
+
+@Article{Fairhurst:2009tc,
+     author    = "{Fairhurst, S.}",
+     title     = "{Triangulation of gravitational wave sources with a network
+                  of detectors}",
+     year      = "2009",
+     eprint    = "0908.2356",
+     archivePrefix = "arXiv",
+     primaryClass  =  "gr-qc",
+     SLACcitation  = "%%CITATION = 0908.2356;%%"
+}
+
+@Article{Lipunov:1996wf,
+     author    = "{Lipunov, V. and Panchenko, I. E.}",
+     title     = "{Pulsars revived by gravitational waves}",
+     journal   = "Astron. Astrophys.",
+     volume    = "312",
+     year      = "1996",
+     pages     = "937",
+     eprint    = "astro-ph/9608155",
+     archivePrefix = "arXiv",
+     SLACcitation  = "%%CITATION = ASTRO-PH/9608155;%%"
+}
+
+@Article{Hansen:2000am,
+     author    = "{Hansen, B. M. S. and Lyutikov, M.}",
+     title     = "{Radio and X-ray Signatures of Merging Neutron Stars}",
+     journal   = "MNRAS",
+     volume    = "322",
+     year      = "2001",
+     pages     = "695",
+     eprint    = "astro-ph/0003218",
+     archivePrefix = "arXiv",
+     doi       = "10.1046/j.1365-8711.2001.04103.x",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0003218;%%"
+}
+
+@Article{Goldreich:1969sb,
+     author    = "{Goldreich, P. and Julian, W. H.}",
+     title     = "{Pulsar electrodynamics}",
+     journal   = "Astrophys. J.",
+     volume    = "157",
+     year      = "1969",
+     pages     = "869",
+     SLACcitation  = "%%CITATION = ASJOA,157,869;%%"
+}
+
+
+@Article{Moortgat:2005fs,
+     author    = "{Moortgat, J. and Kuijpers, J.}",
+     title     = "{Indirect visibility of gravitational waves in
+                  magnetohydrodynamic plasmas}",
+     journal   = "{ArXiv e-prints, 0503074}",
+     year      = "2005",
+     eprint    = "gr-qc/0503074",
+     archivePrefix = "arXiv",
+     SLACcitation  = "%%CITATION = GR-QC/0503074;%%"
+}
+
+@Article{Moortgat:2004xz,
+  title = "{Gravitational waves in magnetized relativistic plasmas}",
+  author = "{Moortgat, J.  and Kuijpers, J. }",
+  journal = {Phys. Rev. D},
+  volume = {70},
+  number = {2},
+  pages = {023001},
+  numpages = {12},
+  year = {2004},
+  month = {Jul},
+  doi = {10.1103/PhysRevD.70.023001},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Moortgat:2003jh,
+   author = "{Moortgat, J. and Kuijpers, J.}",
+    title = "{Gravitational and magnetosonic waves in gamma-ray bursts}",
+  journal = {Astronomy and Astrophysics},
+   eprint = "{arXiv:gr-qc/0302055}",
+ keywords = {gravitational waves, plasmas, gamma ray: bursts, stars: pulsars: general, magnetohydrodynamics (MHD)},
+     year = 2003,
+    month = may,
+   volume = 402,
+    pages = {905-911},
+      doi = {10.1051/0004-6361:20030271},
+   adsurl = {http://adsabs.harvard.edu/abs/2003A%26A...402..905M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@Article{Duez:2005sg,
+     author    = "{Duez, M. D. et. al.}",
+     title     = "{Excitation of MHD modes with gravitational waves: A
+                  testbed for  numerical codes}",
+     journal   = "Phys. Rev. D",
+     volume    = "D72",
+     year      = "2005",
+     pages     = "024029",
+     eprint    = "astro-ph/0503421",
+     archivePrefix = "arXiv",
+     doi       = "10.1103/PhysRevD.72.024029",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0503421;%%"
+}
+
+@Article{Duez:2005sf,
+  title = "{Relativistic magnetohydrodynamics in dynamical spacetimes: Numerical methods and tests}",
+  author = "{Duez, M. D. et. al.}",
+  journal = {Phys. Rev. D},
+  volume = {72},
+  number = {2},
+  pages = {024028},
+  numpages = {21},
+  year = {2005},
+  month = {Jul},
+  doi = {10.1103/PhysRevD.72.024028},
+  publisher = {American Physical Society}
+}
+
+
+@article{liu:024012,
+author = "{Yuk, T. L. et. al.}",
+collaboration = {},
+title = "{General relativistic simulations of magnetized binary neutron star mergers}",
+publisher = {APS},
+year = "{2008}",
+journal = "{Phys. Rev. D (Particles, Fields, Gravitation, and Cosmology)}",
+volume = {78},
+number = {2},
+eid = {024012},
+numpages = {20},
+pages = {024012},
+url = {http://link.aps.org/abstract/PRD/v78/e024012},
+doi = {10.1103/PhysRevD.78.024012}
+}
+
+@Article{Marklund:1999sp,
+     author    = "{Marklund, M., Brodin, G. and Dunsby, P. K. S.}",
+     title     = "{Radio wave emissions due to gravitational radiation}",
+     journal   = "Astrophys. J.",
+     volume    = "536",
+     year      = "2000",
+     pages     = "875-879",
+     eprint    = "astro-ph/9907350",
+     archivePrefix = "arXiv",
+     doi       = "10.1086/308957",
+     SLACcitation  = "%%CITATION = ASTRO-PH/9907350;%%"
+}
+
+@article{Turolla,
+  author="{Turolla, R., Possenti, A. and and Treves, A.}",
+  title="{Is the Bursting Radio Source GCRT J1745\&ndash;3009 a Double Neutron Star Binary?}",
+  journal={Astrophys. J. Lett.},
+  volume={628},
+  number={1},
+  pages={L49-L52},
+  url={http://stacks.iop.org/1538-4357/628/L49},
+  year={2005},
+  abstract={GCRT J1745-3009 is a peculiar transient radio source in the direction of the Galactic center. It was observed to emit a series of \~{}1 Jy bursts at 0.33 GHz, with a typical duration of \~{}10 minutes and at apparently regular intervals of \~{}77 minutes. If the source is indeed at the distance of the Galactic center, as seems likely, we show that its observational properties are compatible with those expected from a double neutron star binary, similar to the double pulsar system J0737-3039. In the picture we propose, the (coherent) radio emission comes from the shock originating in the interaction of the wind of the more energetic pulsar with the magnetosphere of the companion. The observed modulation of the radio signal is the consequence of an eccentric orbit, along which the separation between the two stars varies. This cyclically drives the shock inside the light-cylinder radius of the less energetic pulsar.}
+}
+
+@Article{Usov:2000yr,
+     author    = "{Usov, V. V. and Katz, J. I.}",
+     title     = "{Low Frequency Radio Pulses from Gamma-Ray Bursts?}",
+     journal   = "{ArXiv e-prints, 0002278}",
+     year      = "2000",
+     eprint    = "astro-ph/0002278",
+     archivePrefix = "arXiv",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0002278;%%"
+}
+
+@Article{Macquart:2007kv,
+     author    = "{Macquart, J. -P.}",
+     title     = "{On the Detectability of Prompt Coherent GRB Radio
+                  Emission}",
+     journal   = "Astrophys. J.",
+     volume    = "658",
+     year      = "2007",
+     pages     = "L1-L4",
+     eprint    = "astro-ph/0702098",
+     archivePrefix = "arXiv",
+     doi       = "10.1086/513424",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0702098;%%"
+}
+
+@article{Lorimer11022007,
+author = "{Lorimer, D. R. et. al.}",
+title = "{A Bright Millisecond Radio Burst of Extragalactic Origin}",
+journal = {Science},
+volume = {318},
+number = {5851},
+pages = {777-780},
+doi = {10.1126/science.1147532},
+year = {2007},
+abstract = {Pulsar surveys offer a rare opportunity to monitor the radio sky for impulsive burst-like events with millisecond durations. We analyzed archival survey data and found a 30-jansky dispersed burst, less than 5 milliseconds in duration, located 3{degrees} from the Small Magellanic Cloud. The burst properties argue against a physical association with our Galaxy or the Small Magellanic Cloud. Current models for the free electron content in the universe imply that the burst is less than 1 gigaparsec distant. No further bursts were seen in 90 hours of additional observations, which implies that it was a singular event such as a supernova or coalescence of relativistic objects. Hundreds of similar events could occur every day and, if detected, could serve as cosmological probes.
+},
+URL = {http://www.sciencemag.org/cgi/content/abstract/318/5851/777},
+eprint = {http://www.sciencemag.org/cgi/reprint/318/5851/777.pdf}
+}
+
+@ARTICLE{OTW1986,
+   author = "{Ostriker, J.~P., Thompson, C. and Witten, E.}",
+    title = "{Cosmological effects of superconducting strings}",
+  journal = {Physics Letters B},
+     year = "{1986}",
+    month = nov,
+   volume = 180,
+    pages = "{231-239}",
+      doi = {10.1016/0370-2693(86)90301-1},
+   adsurl = {http://adsabs.harvard.edu/abs/1986PhLB..180..231O},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Kavic2008,
+   author = "{Kavic, M. et. al.}",
+    title = "{Transient pulses from exploding primordial black holes as a signature of an extra dimension}",
+  journal = "{Journal of Cosmology and Astro-Particle Physics}",
+archivePrefix = "arXiv",
+   eprint = "{0801.4023}",
+     year = "{2008}",
+    month = nov,
+   volume = 11,
+    pages = {17-+},
+      doi = {10.1088/1475-7516/2008/11/017},
+   adsurl = {http://adsabs.harvard.edu/abs/2008JCAP...11..017K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008arXiv0812.1255P,
+   author = "{Patterson, C.~D. et. al.}",
+    title = "{Searching for Transient Pulses with the ETA Radio Telescope}",
+  journal = "{ArXiv e-prints, 0812.1255}",
+archivePrefix = "arXiv",
+   eprint = {0812.1255},
+ keywords = {Astrophysics},
+     year = 2008,
+    month = dec,
+   adsurl = {http://adsabs.harvard.edu/abs/2008arXiv0812.1255P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{ott:201102,
+author = "{Ott, C.D. et. al.}",
+collaboration = {},
+title = "{A New Mechanism for Gravitational-Wave Emission in Core-Collapse Supernovae}",
+publisher = {APS},
+year = "{2006}",
+journal = "{Phys. Rev. Lett.}",
+volume = "{96}",
+number = "{20}",
+eid = {201102},
+numpages = {4},
+pages = {201102},
+keywords = {gravitational waves; supernovae; gravitational wave detectors; neutron stars},
+url = {http://link.aps.org/abstract/PRL/v96/e201102},
+doi = {10.1103/PhysRevLett.96.201102}
+}
+
+@Article{Collaboration:2009tt,
+     author    = "{Abbott, B. P. et. al.}",
+ collaboration = "{LIGO Scientific}",
+     title     = "{Search for Gravitational Waves from Low Mass Binary
+                  Coalescences in the First Year of LIGO's S5 Data}",
+     journal   = "{Phys. Rev.}",
+     volume    = "{D79}",
+     year      = "{2009}",
+     pages     = "122001",
+     eprint    = "0901.0302",
+     archivePrefix = "arXiv",
+     primaryClass  =  "gr-qc",
+     doi       = "10.1103/PhysRevD.79.122001",
+     SLACcitation  = "%%CITATION = 0901.0302;%%"
+}
+
+
+@Article{Abbott:2009qj,
+     author    = "{Abbott, B. P. et. al.}",
+     collaboration = "{LIGO Scientific}",
+     title     = "{Search for Gravitational Waves from Low Mass Compact
+                  Binary Coalescence in 186 Days of LIGO's fifth Science
+                  Run}",
+     journal   = "{Phys. Rev.}",
+     volume    = "{D80}",
+     year      = "{2009}",
+     pages     = "047101",
+     eprint    = "0905.3710",
+     archivePrefix = "arXiv",
+     primaryClass  =  "gr-qc",
+     doi       = "10.1103/PhysRevD.80.047101",
+     SLACcitation  = "%%CITATION = 0905.3710;%%"
+}
+@article{nakar07,
+     author    = "{Nakar, E.}",
+     title     = "{Short-Hard Gamma-Ray Bursts}",
+     year      = 2007,
+     eprint    = "arXiv:astro-ph/0701748v1",
+     journal   = "{Phys. Rep.}",
+     volume    = "{442}",
+     pages     = "{166-236}"
+}
+
+@article{GRB070201,
+     author    = "{Abbott, B. P. et. al.}",
+     collaboration = "{LIGO Scientific}",
+     title     = "Implications for the Origin of GRB 070201 from LIGO Observations",
+     journal   = "{Astrophys. J.}",
+     volume    = "{681}",
+     pages     = "{1419-1430}",
+     year      = "{2008}",
+     eprint    = "arXiv:0711.1163v2 [astro-ph]"
+}
+
+@Article{Blanchet:2002av,
+     author    = "{Blanchet, L.}",
+     title     = "{Gravitational radiation from post-{N}ewtonian sources and
+                  inspiralling  compact binaries}",
+     journal   = "{Living Rev. Rel.}",
+     volume    = "{4}",
+     year      = "{2002}",
+     pages     = "{3}",
+     eprint    = "arXiv:gr-qc/0202016",
+     SLACcitation  = "%%CITATION = GR-QC 0202016;%%"
+}
+
+
+@inbook{thompson,
+    author = "{Thompson, A. R.}",
+    title = "Interferometry and Synthesis in Radio Astronomy",
+    chapter = "{13.6}",
+    year = "{2004}",
+    publisher = "{Wiley-VCH}",
+    doi = "10.1002/9783527617845.ch1"
+}
+
+@ARTICLE{laz,
+    author = "{Lazio, T. J. W. and Cordes, J. M.}",
+    title = "{{SKA} Scientific Memorandum: Telescope Response Times}",
+    year = "{2003}",
+    url = "www.skatelescope.org/documents/Telescope_Respose_Times.pdf"
+}
+
+@ARTICLE{cheng,
+   author = "{Cheng, K.~S. et. al.}",
+    title = "{Spontaneous superfluid unpinning and the inhomogeneous distribution of vortex lines in neutron stars}",
+  journal = "{Astrophys. J.}",
+ keywords = {NEUTRON STARS, PULSARS, SUPERFLUIDITY, CRUSTS, DENSE PLASMAS, EQUATIONS OF MOTION, PINNING, VORTICES},
+     year = "{1988}",
+    month = jul,
+   volume = "{330}",
+    pages = "{835-846}",
+      doi = {10.1086/166517},
+   adsurl = {http://adsabs.harvard.edu/abs/1988ApJ...330..835C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{franco,
+  author="{Franco, L. et. al.}",
+  title="{Quaking Neutron Stars}",
+  journal="{Astrophys. J.}",
+  volume="{543}",
+  number="{2}",
+  pages="{987-994}",
+  url={http://stacks.iop.org/0004-637X/543/987},
+  year={2000},
+  abstract={Gravitational, magnetic, and superfluid forces can stress the crust of an evolving neutron star. Fracture of the crust under these stresses could affect the star's spin evolution and generate high-energy emission. We study the growth of strain in the crust of a spinning down, magnetized neutron star and examine the initiation of crust cracking (a starquake). In preliminary work in 1998 we studied a homogeneous model of a neutron star. Here we extend this work by considering a more realistic model of a solid, homogeneous crust afloat on a liquid core. In the limits of astrophysical interest, our new results qualitatively agree with those from the simpler model: the stellar crust fractures under shear stress at the rotational equator, matter moves to higher latitudes, and the star's oblateness is reduced. Magnetic stresses favor faults directed toward the magnetic poles. Thus our previous conclusions concerning the star's spin response still hold; namely, asymmetric redistribution of matter excites damped precession, which could ultimately lead to an increase in the spin-down torque. Starquakes associated with glitches could explain the permanent offsets in period derivative observed to follow glitches in at least three pulsars.}
+}
+
+@Article{benhar,
+  title = "{Gravitational wave asteroseismology reexamined}",
+  author = "{Benhar, O. et. al. }",
+  journal = "{Phys. Rev. D}",
+  volume = "{70}",
+  number = "{12}",
+  pages = "{124015-124024}",
+  numpages = {9},
+  year = {2004},
+  month = {Dec},
+  doi = {10.1103/PhysRevD.70.124015},
+  publisher = {American Physical Society}
+}
+
+@Article{Hyman:2005ng,
+     author    = "{Hyman, S. D. et. al.}",
+     title     = "{A powerful bursting radio source towards the Galactic
+                  Centre}",
+     journal   = "{Nature.}",
+     volume    = "{434}",
+     year      = "{2005}",
+     pages     = "{50-52}",
+     eprint    = "astro-ph/0503052",
+     archivePrefix = "arXiv",
+     doi       = "10.1038/nature03400",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0503052;%%"
+}
+
+@Article{Zhu:2005yh,
+     author    = "{Zhu, W. W. and Xu, Rex-Xin}",
+     title     = "{GCRT J1745-3009: A freely precessing pulsar?}",
+     journal   = "{MNRAS}",
+     volume    = "{365}",
+     year      = "{2006}",
+     pages     = "{L16}",
+     eprint    = "astro-ph/0504251",
+     archivePrefix = "arXiv",
+     doi       = "10.1111/j.1745-3933.2005.00117.x",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0504251;%%"
+}
+
+@Article{Zhang:2005kz,
+     author    = "{Zhang, B. and Gil, J.}",
+     title     = "{GCRT J1745-3009 as a Transient White Dwarf Pulsar}",
+     journal   = "{Astrophys. J.}",
+     volume    = "{631}",
+     year      = "{2005}",
+     pages     = "{L143-L146}",
+     eprint    = "astro-ph/0508213",
+     archivePrefix = "arXiv",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0508213;%%"
+}
+
+@ARTICLE{Clark:2007,
+   author = "{Clark, J. et. al.}",
+    title = "{Evidence-based search method for gravitational waves from neutron star ring-downs}",
+  journal = "{Phys. Rev. D}",
+   eprint = "arXiv:gr-qc/0703138",
+     year = "{2007}",
+    month = aug,
+   volume = "{76}",
+   number = "{4}",
+    pages = "{043003-+}",
+      doi = "10.1103/PhysRevD.76.043003",
+   adsurl = "http://adsabs.harvard.edu/abs/2007PhRvD..76d3003C",
+  adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+}
+	
+@ARTICLE{Flanagan:2006,
+   author = "{Flanagan, C.~S. and Buchner, S.~J.}",
+    title = "{PSR B0833-45}",
+  journal = "{Central Bureau Electronic Telegrams}",
+     year = "{2006}",
+    month = aug,
+   volume = "{595}",
+    pages = "{1}",
+   adsurl = {http://adsabs.harvard.edu/abs/2006CBET..595....1F},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{Buchner:2008,
+   author = "{Buchner, S. and Flanagan, C.}",
+    title = "{Glitches in the Vela Pulsar}",
+ keywords = {pulsars, neutron stars, astronomical telescopes},
+booktitle = {40 Years of Pulsars: Millisecond Pulsars, Magnetars and More},
+     year = "{2008}",
+   series = "{American Institute of Physics Conference Series}",
+   volume = "{983}",
+    month = feb,
+    pages = "{145-147}",
+      doi = {10.1063/1.2900129},
+   adsurl = {http://adsabs.harvard.edu/abs/2008AIPC..983..145B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@Article{Kalogera:2004tn,
+     author    = "{Kalogera, V. et. al.}",
+     title     = "{The Cosmic Coalescence Rates for Double Neutron Star
+                  Binaries}",
+     journal   = "{Astrophys. J.}",
+     volume    = "{601}",
+     pages     = "{L179-L182}",
+     year      = "{2004}",
+     omit_eprint    = "astro-ph/0312101",
+     note = "Erratum-ibid. 614 (2004) L137",
+     SLACcitation  = "%%CITATION = ASTRO-PH 0312101;%%"
+}
+@ARTICLE{Kalogera:2004nt,
+   bibcode ={2004ApJ...614L.137K},
+   author = "{Kalogera, V. et. al.}",
+    title = "{Erratum: ``The Cosmic Coalescence Rates for Double Neutron Star Binaries (ApJ, 601, L179 [2004])}",
+  journal = "{Astrophys. J. Lett.}",
+     year = "{2004}",
+    month = oct,
+   volume = "{614}",
+    pages = "{L137-L138}",
+      doi = {10.1086/425868},
+   adsurl = {http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2004ApJ...614L.137K&db_key=AST},
+  adsnote = {Provided by the Smithsonian/NASA Astrophysics Data System}
+}
+
+@Article{weisberg:2004,
+    author        = "{Weisberg, J. M. and Taylor, J. H.}",
+    title         = "{Relativistic Binary Pulsar B1913+16: Thirty Years of Observations and Analysis}",
+    journal       = "{ArXiv e-prints, 0407149}",
+    year          = "{2004}",
+    eprint        = "astro-ph/0407149 to be published in Binary Radio Pulsars,
+  Proc. Aspen Conference, ASP Conf. Series, eds. F.A. Rasio \& I.H. Stairs"
+}
+
+@Article{Bogomazov:2009wj,
+     author    = "{Bogomazov, A. I. and Popov, S. B.}",
+     title     = "{Magnetars, Gamma-ray Bursts, and Very Close Binaries}",
+     journal   = "{Astron. Rep.}",
+     volume    = "{53}",
+     year      = "{2009}",
+     pages     = "{325-333}",
+     eprint    = "0905.3238",
+     archivePrefix = "arXiv",
+     primaryClass  =  "astro-ph.HE",
+     SLACcitation  = "%%CITATION = 0905.3238;%%"
+}
+
+  
+
+
+@ARTICLE{crab,
+   author    = "{Abbott, B.P. et. al.}",
+    title="{Beating the Spin-Down Limit on Gravitational Wave Emission from the Crab Pulsar}",
+  journal="{Astrophys. J. Lett.}",
+  volume="{683}",
+  number="{1}",
+  pages="{L45-L49}",
+  url={http://stacks.iop.org/1538-4357/683/L45},
+  year="{2008}",
+  abstract={We present direct upper limits on gravitational wave emission from the Crab pulsar using data from the first 9 months of the fifth science run of the Laser Interferometer Gravitational-wave Observatory (LIGO). These limits are based on two searches. In the first we assume that the gravitational wave emission follows the observed radio timing, giving an upper limit on gravitational wave emission that beats indirect limits inferred from the spin-down and braking index of the pulsar and the energetics of the nebula. In the second we allow for a small mismatch between the gravitational and radio signal frequencies and interpret our results in the context of two possible gravitational wave emission mechanisms.}
+}
+
+@BOOK{pulsar_book,
+	author = "{Lyne, A.~G and Graham-Smith, F.~G}",
+	title  = "{Pulsar Astronomy}",
+	publisher = "{Cambridge University Press}",
+	year = "{1998}"
+}
+
+@
+misc{skadoc,
+        title = "{ \url{http://www.skatelescope.org/documents/Telescope_Respose_Times.pdf}}",
+		author= "{Lazio, T. J. and Cordes, J.M., SKA Scientiﬁc Memorandum: Telescope Response Times}"
+
+}
+
+@ARTICLE{palmer,
+   author = "{Palmer, D.~M.}",
+    title = "{Radio Dispersion as a Diagnostic of Gamma-Ray Burst Distances}",
+  journal = "{Astrophys. J. Lett.}",
+ keywords = {COSMOLOGY: DARK MATTER, GAMMA RAYS: BURSTS, ISM: GENERAL, METHODS: OBSERVATIONAL, RADIATION MECHANISMS: MISCELLANEOUS},
+     year = "{1993}",
+    month = nov,
+   volume = "{417}",
+    pages = "{L25+}",
+      doi = {10.1086/187085},
+   adsurl = {http://adsabs.harvard.edu/abs/1993ApJ...417L..25P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+\begin{thebibliography}{10}
+
+\bibitem{Lipunov:1996wf}
+Vladimir~M. Lipunov and Ivan~E. Panchenko.
+\newblock {Pulsars revived by gravitational waves}.
+\newblock {\em Astron. Astrophys.}, 312:937, 1996.
+
+\bibitem{070201}
+Abbott et. al. (LIGO scientific collaboration), {\em The Astrophysical Journal, 681:1419Y1430, 2008 July 10}
+
+\bibitem{Hansen:2000am}
+Brad M.~S. Hansen and Maxim Lyutikov.
+\newblock {Radio and X-ray Signatures of Merging Neutron Stars}.
+\newblock {\em Mon. Not. Roy. Astron. Soc.}, 322:695, 2001.
+
+\bibitem{Duez:2005sg}
+Matthew~D. Duez, Yuk~Tung Liu, Stuart~L. Shapiro, and Branson~C. Stephens.
+\newblock {Excitation of MHD modes with gravitational waves: A testbed for
+  numerical codes}.
+\newblock {\em Phys. Rev.}, D72:024029, 2005.
+
+\bibitem{Duez:2005sf}
+Matthew~D. Duez, Yuk~Tung Liu, Stuart~L. Shapiro, and Branson~C. Stephens.
+\newblock Relativistic magnetohydrodynamics in dynamical spacetimes: Numerical
+  methods and tests.
+\newblock {\em Phys. Rev. D}, 72(2):024028, Jul 2005.
+
+\bibitem{Moortgat:2005fs}
+Joachim Moortgat and Jan Kuijpers.
+\newblock {Indirect visibility of gravitational waves in magnetohydrodynamic
+  plasmas}.
+\newblock 2005.
+
+\bibitem{Moortgat:2004xz}
+J.~Moortgat and J.~Kuijpers.
+\newblock Gravitational waves in magnetized relativistic plasmas.
+\newblock {\em Phys. Rev. D}, 70(2):023001, Jul 2004.
+
+\bibitem{ott:201102}
+Christian~D. Ott, Adam Burrows, Luc Dessart, and Eli Livne.
+\newblock A new mechanism for gravitational-wave emission in core-collapse
+  supernovae.
+\newblock {\em Physical Review Letters}, 96(20):201102, 2006.
+
+\bibitem{Moortgat:2003jh}
+J.~{Moortgat} and J.~{Kuijpers}.
+\newblock {Gravitational and magnetosonic waves in gamma-ray bursts}.
+\newblock {\em Astronomy and Astrophysics}, 402:905--911, May 2003.
+
+\bibitem{Usov:2000yr}
+Vladimir~V. Usov and Jonathan~I. Katz.
+\newblock {Low Frequency Radio Pulses from Gamma-Ray Bursts?}
+\newblock 2000.
+
+\bibitem{nakar07}
+Ehud Nakar.
+\newblock Short-hard gamma-ray bursts.
+\newblock {\em Phys. Rep.}, 442:166--236, 2007.
+
+\bibitem{cheng}
+K.~S. {Cheng}, D.~{Pines}, M.~A. {Alpar}, and J.~{Shaham}.
+\newblock {Spontaneous superfluid unpinning and the inhomogeneous distribution
+  of vortex lines in neutron stars}.
+\newblock {\em The Astrophysical Journal}, 330:835--846, July 1988.
+
+\bibitem{franco}
+Lucia~M. Franco, Bennett Link, , and Richard~I. Epstein.
+\newblock Quaking neutron stars.
+\newblock {\em The Astrophysical Journal}, 543(2):987--994, 2000.
+
+\bibitem{benhar}
+Omar Benhar, Valeria Ferrari, and Leonardo Gualtieri.
+\newblock Gravitational wave asteroseismology reexamined.
+\newblock {\em Phys. Rev. D}, 70(12):124015, Dec 2004.
+
+\bibitem{Hyman:2005ng}
+Scott~D. Hyman et~al.
+\newblock {A powerful bursting radio source towards the Galactic Centre}.
+\newblock {\em Nature.}, 434:50--52, 2005.
+
+\bibitem{Turolla}
+R.~Turolla, A.~Possenti, , and A.~Treves.
+\newblock Is the bursting radio source gcrt j1745\&ndash;3009 a double neutron
+  star binary?
+\newblock {\em The Astrophysical Journal Letters}, 628(1):L49--L52, 2005.
+
+\bibitem{Zhu:2005yh}
+W.~W. Zhu and Rex-Xin Xu.
+\newblock {GCRT J1745-3009: A freely precessing pulsar?}
+\newblock {\em Mon. Not. Roy. Astron. Soc. Lett.}, 365:L16, 2006.
+
+\bibitem{Zhang:2005kz}
+Bing Zhang and Janusz Gil.
+\newblock {GCRT J1745-3009 as a Transient White Dwarf Pulsar}.
+\newblock {\em Astrophys. J.}, 631:L143--L146, 2005.
+
+\bibitem{Lorimer11022007}
+D.~R. Lorimer, M.~Bailes, M.~A. McLaughlin, D.~J. Narkevic, and F.~Crawford.
+\newblock {A Bright Millisecond Radio Burst of Extragalactic Origin}.
+\newblock {\em Science}, 318(5851):777--780, 2007.
+
+\bibitem{OTW1986}
+J.~P. Ostriker, A.~C. Thompson, and E. Witten.
+\newblock {Cosmological effects of superconducting strings}.
+\newblock {\em Phys.\ Lett.} B180:231, 1986.
+
+\bibitem{Kavic2008}
+M. Kavic, J.~H. Simonetti, S.~E. Cutchin, S.~W. Ellingson, and C.~D. Patterson.
+\newblock {Transient pulses from exploding primordial black holes as a signature of an extra dimension}.
+\newblock {\em J. of Cosmology and Astroparticle Physics} 11:017, 2008.
+
+\bibitem{thompson}
+A.~Richard Thompson, James~M. Moran, and George W.~Swenson Jr.
+\newblock {\em Interferometry and Synthesis in Radio Astronomy}, chapter 13.6.
+\newblock Wiley-VCH, 2004.
+
+\bibitem{laz}
+T.~J.~W. Lazio and J.~M. Cordes.
+\newblock {SKA} scientific memorandum: Telescope response times.
+\newblock 2003.
+
+@Article{Garrett:2009gp,
+     author    = "{Garrett, M. A.}",
+     title     = "{Building LOFAR - status update}",
+    journal    = "{ArXiv e-prints, 0909.3147}",
+     year      = "{2009}",
+     eprint    = "0909.3147",
+     journal = "arXiv/astro-ph/0909.3147",
+     primaryClass  =  "astro-ph.IM",
+     SLACcitation  = "%%CITATION = 0909.3147;%%"
+}
+
+
+@Article{lofar_case,
+     author    = "{de Bruyn, A. G. et. al.}",
+     title     = "{Exploring the universe with the low frequency array}",
+     url       = "http://icg.port.ac.uk/~hoyleb/bh/documents/lofar_NL_case_1.pdf",
+     journal = "{ArXiv e-prints, astro-ph/0610596/2006}"
+}
+
+@Article{Patterson:2008ie,
+     author    = "{Patterson, C. D. et. al.}",
+     title     = "{Searching for Transient Pulses with the ETA Radio
+                  Telescope}",
+     journal   = "ACM Trans. Reconf. Tech. Syst.",
+     volume    = "{1}",
+     year      = "{2009}",
+     pages     = "{1-19}",
+     eprint    = "0812.1255",
+     archivePrefix = "arXiv",
+     primaryClass  =  "astro-ph",
+     doi       = "10.1145/1462586.1462589",
+     SLACcitation  = "%%CITATION = 0812.1255;%%"
+}
+
+\bibitem{Patterson:2008ie}
+Patterson, Cameron D. and others
+\newblock{\em Searching for Transient Pulses with the ETA Radi0 Telescope}
+\newblock{arXiv/astro-ph 0.1145/1462586.1462589}
+
+
+@Article{Collaboration:2009kk,
+     author    = "{Abbott, B.P. et. al.}",
+     collaboration="{LIGO-Virgo Scientific}",
+     title     = "{Search for gravitational-wave bursts associated with
+                  gamma-ray bursts using data from LIGO Science Run 5 and
+                  Virgo Science Run 1}",
+    journal    = "{ArXiv e-prints, 0908.3824}",
+     year      = "{2009}",
+     eprint    = {0908.3824},
+     archivePrefix = "arXiv",
+     primaryClass  =  "Unknown",
+     SLACcitation  = "%%CITATION = 0908.3824;%%"
+}
+
+@ARTICLE{known_pulsars,
+   author = "{Abbott, B.P. et. al.}",
+  collaboration="{LIGO Scientific}",
+    title = "{Searches for gravitational waves from known pulsars with S5 LIGO data}",
+  journal = "{ArXiv e-prints, 0909.3583}",
+archivePrefix = "arXiv",
+   eprint = {0909.3583},
+ keywords = {Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Galaxy Astrophysics, General Relativity and Quantum Cosmology},
+     year = {2009},
+   adsurl = {http://adsabs.harvard.edu/abs/2009arXiv0909.3583T},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+\bibitem{james}
+J.\,Clark, I.\,S.\,Heng,
+\url{https://www.lsc-group.phys.uwm.edu/ligovirgo/exttrig/protected/projects/pulsar_glitches/web/}
+
+\bibitem{ligo_observatory}
+\url{http://en.wikipedia.org/wiki/LIGO}
+
+@article{GEO_status,
+author="{Willke, B. et. al.}",
+collaboration="{LIGO Scientific}",
+title="{GEO600: status and plans}",
+journal="{Class. Quant. Gravity}",
+volume="{24}",
+number="{19}",
+pages="{S389-S397}",
+url={http://stacks.iop.org/0264-9381/24/S389},
+year="{2007}",
+abstract={The GEO600 gravitational wave detector located near Hannover in Germany is one of the four detectors of the LIGO Scientific Coll     aboration (LSC). For almost the entire year of 2006, GEO600 participated in the S5 science run of the LSC. Overall an equivalent of about 27     0 days of science data with an average peak sensitivity of better than 3 $\times$ 10[?]22 Hz[?]1/2 have been acquired so far. In this paper,      we describe the status of the GEO600 project during the period between January 2006 and February 2007. In addition, plans for the near-term      and medium-term future are discussed.}
+}
+
+@article{VIRGO_status,
+author="{Acernese, F. et. al.}",
+title="{Status of Virgo detector}",
+journal="{Class. Quant. Gravity}",
+volume="{24}",
+number="{19}",
+pages="{S381-S388}",
+url={http://stacks.iop.org/0264-9381/24/S381},
+year="{2007}",
+abstract={The commissioning of the Virgo gravitational wave detector has restarted after several major hardware upgrades carried out durin     g winter 2005. Now Virgo is fully operative and its sensitivity greatly improved and continually improving. A program of short scientific da     ta taking has already started and Virgo is moving towards a period of continuous data taking, which should start at the end of May 2007. The      actual status of the Virgo detector is reported, describing the actual detector sensitivity as well as the limiting noises and the mid-term      plans.}
+}
+
+@article{TAMA_status,
+author="{Ando, M. et. al.}",
+collaboration="{TAMA Scientific}",
+title="{Current status of TAMA}",
+journal="{Class. Quant. Gravity}",
+volume="{19}",
+number="{7}",
+pages="{1409-1419}",
+url={http://stacks.iop.org/0264-9381/19/1409},
+year="{2002}",
+abstract={TAMA300, an interferometric gravitational-wave detector with 300 m baseline length, has been developed and operated with suffici     ent sensitivity to detect gravitational-wave events within our galaxy and sufficient stability for observations. The interferometer was oper     ated for over 24 h stably and continuously. With a strain-equivalent noise level of h [?] 5 x 10[?]21 Hz[?]1/2, a signal-to-noise ratio (SNR     ) of 30 is expected for gravitational waves generated by a coalescence of 1.4 M[?][?]1.4 M[?] binary neutron stars at 10 kpc distance. In th     e summer of 2000, we carried out a two-week data-taking run, called data taking 4 (DT4), collecting 160 h of data to be analysed in the sear     ch for gravitational waves. In this paper, we review the design of the TAMA300 interferometer and the results of DT4. In addition, improveme     nts after DT4 and recent results are also reported.}
+}
+
+@article{LIGO_status,
+        author = "{Abbott, B.P. et. al.}",
+        collaboration="{LIGO Scientific}",
+        title = "{Status of the LIGO detectors}",
+        journal = "{Classical and Quantum Gravity}",
+        volume = "{25}",
+        number = "{11}",
+        pages = "{114041 (8pp)}",
+        url = {http://stacks.iop.org/0264-9381/25/114041},
+        year = "{2008}",
+abstract={All three LIGO gravitational wave detectors have reached their design sensitivities. A sky-averaged detection range (SNR $>$ 8)      of more than 15 Mpc for gravitational waves emitted from inspiral binary neutron stars with masses of 1.4 M[?] has been achieved with the tw     o 4 km instruments. The fifth LIGO science run started in November 2005 and ended in September 2007. A full year of triple coincidence data      has been acquired. The duty cycle of a single instrument was between 66\% and 79\%. Results from previous science runs are presented.}
+}
+
+
+@Article{Lazio:2009xe,
+     author    = "{Lazio, J. et. al.}",
+     title     = "{The Dynamic Radio Sky: An Opportunity for Discovery}",
+     journal   = "{Astro2010: The Astronomy and Astrophysics Decadal Survey (in progress)}",
+     year      = "{2009}",
+     eprint    = "0904.0633",
+     journal = "arXiv/astro-ph/0904.0633",
+     primaryClass  =  "astro-ph.IM",
+     SLACcitation  = "%%CITATION = 0904.0633;%%"
+}
+
+@Article{Hessels:2007ct,
+     author    = "{Hessels, J. W. T. et. al.}",
+     title     = "{The GBT350 Survey of the Northern Galactic Plane for Radio
+                  Pulsars and Transients}",
+     journal   = "{AIP Conf. Proc.}",
+     volume    = "{983}",
+     year      = "{2008}",
+     pages     = "{613-615}",
+     eprint    = "0710.1745",
+     archivePrefix = "arXiv",
+     primaryClass  =  "astro-ph",
+     doi       = "10.1063/1.2900310",
+     SLACcitation  = "%%CITATION = 0710.1745;%%"
+}
+
+@Article{BurkeSpolaor:2009rm,
+     author    = "{Burke-Spolaor, S. and Bailes, M.}",
+     title     = "{The Millisecond Radio Sky: Transients from a Blind Single
+                  Pulse Search}",
+     journal   = "{MNRAS, Volume 302, Issue 2}",
+     year      = "{2010}",
+     pages     = "{855-866}",
+     eprint    = "0911.1790",
+     archivePrefix = "arXiv",
+     primaryClass  =  "astro-ph.SR",
+     SLACcitation  = "%%CITATION = 0911.1790;%%"
+}
+
+@Article{Abbott:2007rh,
+     author      = "{Abbott, B.P. et. al.}",
+   collaboration ="{LIGO Scientific}",
+     title       = "{Implications for the Origin of GRB 070201 from LIGO
+                  Observations}",
+     journal     = "{Astrophys. J.}",
+     volume      = "{681}",
+     year        = "{2008}",
+     pages       = "{1419-1428}",
+     eprint      = "0711.1163",
+     archivePrefix = "arXiv",
+     primaryClass  =  "astro-ph",
+     doi       = "10.1086/587954",
+     SLACcitation  = "%%CITATION = 0711.1163;%%"
+}
+
+@Article{Sadowski:2007dz,
+     author    = "{Sadowski, A. et. al.}",
+     title     = "{The Total Merger Rate of Compact Object Binaries In The
+                  Local Universe}",
+     journal   ="{Astrophys. J.}",
+     volume    ="{676}",
+     number    ="{2}",
+     pages     ="{1162-1169}",     
+     year      = "{2007}",
+     eprint    = "0710.0878",
+     archivePrefix = "arXiv",
+     primaryClass  =  "astro-ph",
+     SLACcitation  = "%%CITATION = 0710.0878;%%"
+}
+
+@Article{Ofek:2006pr,
+     author    = "{Ofek, E. O. et. al.}",
+     title     = "{The short-hard GRB 051103: Observations and implications
+                  for its nature}",
+     journal   = "{Astrophys. J.}",
+     volume    = "{652}",
+     year      = "{2006}",
+     pages     = "{507-511}",
+     eprint    = "astro-ph/0609582",
+     archivePrefix = "arXiv",
+     doi       = "10.1086/507837",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0609582;%%"
+}
+
+@Article{Soderberg:2006bn,
+     author    = "{Soderberg, A. M. et. al.}",
+     title     = "{The Afterglow and Host Galaxy of the Energetic Short-Hard
+                  Gamma-Ray Burst 051221}",
+     journal   = "{Astrophys. J.}",
+     volume    = "{650}",
+     year      = "{2006}",
+     pages     = "{261-271}",
+     eprint    = "astro-ph/0601455",
+     archivePrefix = "arXiv",
+     doi       = "10.1086/506429",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0601455;%%"
+}
+
+@article{0264-9381-25-22-225001,
+  author="{Acernese, F. et. al.}",
+  collaboration="{Virgo Scientific}",
+  title="{Search for gravitational waves associated with GRB 050915a using the Virgo detector}",
+  journal="{Classical and Quantum Gravity}",
+  volume="{25}",
+  number="{22}",
+  url={http://stacks.iop.org/0264-9381/25/225001},
+  year="{2008}",
+  abstract={In the framework of the expected association between gamma-ray bursts and gravitational waves, we present results of an analysis aimed to search for a burst of gravitational waves in coincidence with gamma-ray burst 050915a. This was a long duration gamma-ray burst detected by Swift during September 2005, when the Virgo gravitational wave detector was engaged in a commissioning run during which the best sensitivity attained in 2005 was exhibited. This offered the opportunity for Virgo's first search for a gravitational wave signal in coincidence with a gamma-ray burst. The result of our study is a set of strain amplitude upper limits, based on the loudest event approach, for different but quite general types of burst signal waveforms. The best upper limit strain amplitudes we obtain are h_{rss}={\\cal O}(10\^{}{-20}) Hz[?]1/2 around [?]200-1500 Hz. These upper limits allow us to evaluate the level up to which Virgo, when reaching nominal sensitivity, will be able to constrain the gravitational wave output associated with a long burst. Moreover, the analysis presented here plays the role of a prototype, crucial in defining a methodology for gamma-ray burst triggered searches with Virgo and opening the way for future joint analyses with LIGO.}
+}
+
+
+@misc{magnetar_catalog,
+        title = "{ \url{http://www.physics.mcgill.ca/~pulsar/magnetar/main.html}}",
+		author= "McGill University Magnetar Catalog"
+}
+
+
+@Article{Popov:2005wh,
+     author    = "{Popov, S. B. and Prokhorov, M. E.}",
+     title     = "{Magnetars origin and progenitors with enhanced rotation}",
+     journal   = "{MNRAS, Volume 367, Issue 2}",
+     year      = "{2005}",
+     pages     = "{732-736}",
+     eprint    = "astro-ph/0505406",
+     archivePrefix = "arXiv",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0505406;%%"
+}
+
+@Article{Lommen:2000yt,
+     author    = "{Lommen, A. N. et. al.}",
+     title     = "{New Pulsars from an Arecibo Drift Scan Search}",
+     journal   = "{Astrophys. J.}",
+     volume    = "{545}",     
+     year      = "{2000}",
+     pages     = "{1007-1014}",
+     eprint    = "astro-ph/0008054",
+     archivePrefix = "arXiv",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0008054;%%"
+}
+
+
+@Article{Mason:2009dq,
+     author    = "{Mason, B. S. et. al.}",
+     title     = "{A 31 GHz Survey of Low-Frequency Selected Radio Sources}",
+     journal   = "{Astrophys. J.}",
+     volume    = "{704}",
+     year      = "{2009}",
+     pages     = "{1433-1447}",
+     eprint    = "0901.4330",
+     archivePrefix = "arXiv",
+     primaryClass  =  "astro-ph.CO",
+     doi       = "10.1088/0004-637X/704/2/1433",
+     SLACcitation  = "%%CITATION = 0901.4330;%%"
+}
+
+@misc{ATNF,
+        title = "{ \url{http://www.atnf.csiro.au/research/pulsar/}}",
+		author= "ATNF Pulsar Catalog"
+}
+
+@Article{Nice:1998dn,
+     author    = "{Nice, D. J.}",
+     title     = "{Radio Pulses along the Galactic Plane}",
+     journal   ="{Astrophys. J.}",
+     volume    ="{513}",
+     number    ="{2}",
+     pages     ="{927-932}",
+     year      = "{1999}",
+     eprint    = "astro-ph/9809095",
+     archivePrefix = "arXiv",
+     SLACcitation  = "%%CITATION = ASTRO-PH/9809095;%%"
+}
+
+
+
+

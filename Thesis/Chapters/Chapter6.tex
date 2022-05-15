@@ -1,0 +1,146 @@
+\chapter{Search for gravitational waves associated with the InterPlanetary Network gamma-ray bursts -- Methodology} % Write in your own chapter title
+\label{Chapter Six}
+%\lhead{Chapter~\ref{ChapterLabel}
+% \emph{Search for Gravitational Waves Associated with the InterPlanetary Network Gamma--Ray Bursts -- Methodology}} % Write in your own chapter title to set the page header
+
+This chapter reports the motivation and methodology for a search in GW data around the times of 20 additional gamma-ray bursts during S5/VSR1. These bursts were detected between 2006 and 2007 and have been localized, in both time and sky location, such that a targeted GW search is possible. I will discuss the necessary changes to the recently finished analysis (for the S6/VSR2 and 3 science runs \emph{Swift} and Fermi--GBM--observed GRBs, \cite{lvc:s6grb, Harry:2010fr}, and Chapter \ref{Chapter Four} for an example analysis) that are needed to implement a search on GRBs identified by the IPN network which may be less well localized in both sky position and time than the corresponding bursts identified by the Swift satellite and used in previous analyses \cite{Abadie:2010uf, Collaboration:2009kk}.
+
+We gathered the sample of GRBs to be analyzed using data provided in the IPN online table available publicly at \cite{HurleyHTML} and by cross-checking this with NASA's HEASARC online table at \cite{heasarc}. Since these GRBs are not reported in any of NASA's Gamma Ray Burst Circulars (GCN) \cite{gcns}, a manual check on each burst had to be performed in order to confirm its characteristics, involving checking several IPN satellite homepages e.g., Suzaku at \cite{suzaku}, INTEGRAL at \cite{integral}, \emph{Swift} at \cite{swift} and Konus--WIND at \cite{konus}.
+
+The details of the sky position were obtained by manually processing raw data from the IPN satellites for every GRB.  In order to perform a search of the GW data for a given GRB, the sky position and time of the GRB must be determined.  This information is obtained from knowledge of: the IPN satellites that detected the burst together with their absolute and relative sky positions (information needed for constructing the GRB error boxes), locations of all the spacecraft (used to obtain the blocking constraints to reduce the size of the GRB error boxes), the burst time of arrival at the satellites and at Earth (used to determine the time interval on which we will perform the GW search) and its error. Constructing the GRB error boxes, determining their sizes and choosing the right GW data for analysis are entirely contingent on these pieces of information.
+
+\begin{figure}[htb]
+\begin{center}
+\includegraphics[height=15pc]{Images/ipn1.pdf}
+\caption{\label{fig:triangulation}The IPN schematics: triangulating the position of a GRB using three IPN spacecraft (S1, S2 and S3). Using three satellites we obtain two IPN annuli that intersect to form two error boxes. Reference \cite{HurleyHTML}}
+\end{center}
+\label{IPNtriangulation}
+\end{figure}
+
+\section{The IPN triangulation mechanism}
+The InterPlanetary Network \cite{Hurley:2002wv, Hurley:1999ym}, also summarized in Chapter \ref{Chapter Two}, employs several space missions and synthesizes data obtained from the detection of the same burst by different spacecraft equipped with gamma-ray detectors. The IPN has been operating for three successive generations; presently the third IPN (IPN3) began its operation in November 1990. Currently the spacecraft gathering data are Konus-WIND, Suzaku, INTEGRAL,  RHESSI, \emph{Swift}, Fermi--GBM (in Earth orbit), MESSENGER (in Mercury orbit) and Mars Odyssey (in Mars orbit) \cite{HurleyHTML}. When the duty cycles and effective fields of view of all the missions in the network are considered, the IPN is an all--time, isotropic GRB monitor.
+
+The principle on which the IPN triangulation method is based uses the arrival time of the same burst at different spacecraft to determine the source sky location. Figure \ref{fig:triangulation} illustrates how an IPN triangulation works. S1, S2 and S3 denote three spacecraft detecting the same GRB and $\theta$ is angle between the burst direction and the baseline between S1 and S2.  Then, the burst will be detected by S2 at a time $\delta T$ seconds earlier than S1 
+%
+\begin{equation}
+\cos (\theta) = c \delta T / D_{12}
+\label{IPNeqn1}
+\end{equation}
+%
+where $D_{12}$ is the distance between S1 and S2, and $c$ the speed of light. Since $D_{12}$ is known and $\delta T$ is measured, $\theta$ is estimated. The solution to equation (\ref{IPNeqn1}) is represented by a ring, or an $annulus$, whose width depends on the timing uncertainties ($\sigma(\delta T)$) and on the separation $D_{12}$.  The further apart the detectors, the more precise the localization. The number of independent couples of detectors (and, therefore, the number of independent annuli) is two for the case of three spacecraft; thus, the burst direction must be inside one of the two intersection regions of the annuli. This intersection region is called the IPN error box of the GRB. Depending on the location of the IPN spacecraft and their timing errors this error box may vary in size from fractions of, to hundreds of square degrees. The annulus width is obtained by propagating the uncertainty on the time delay $\delta T$. Thus, from equation (\ref{IPNeqn1}) it follows that
+%
+\begin{equation}
+\sigma(\theta) = \frac{c\sigma (\delta T)}{D_{12} \sin (\theta)}
+\label{IPNeqn2}
+\end{equation}
+
+Equation (\ref{IPNeqn2}) gives the uncertainty $\sigma(\theta)$ in the angle $\theta$ expressed in radians.  The uncertainty on $D_{12}$ has been neglected, as the main contribution comes from the timing uncertainties. One has to take into account not only the time resolution of each of the detectors, but also the difficulty of comparing different light curves, often derived from different energy bands. For example, when $D_{12}$ spans the typical range: few $10^2$ - few $10^3$ light seconds, then from equation (\ref{IPNeqn2}) it comes out that a minimum time resolution of the order of $10^{-2} - 10^{-3}$ s is required, in order to have $\sigma(\theta) \sim$ few arcminutes or less in order to obtain a precise localization.
+
+\begin{figure}[htb]
+\begin{center}
+\includegraphics[width=32pc]{Images/Slide1.png}
+\caption{\label{fig:error_box}Error box construction: red lines correspond to the Konus-WIND ecliptic latitude bands, blue lines are the 3--$\sigma$ IPN1-2 annulus and magenta lines are the 3-$\sigma$ IPN1-3 annulus obtained by triangulation (in this case we have three IPN spacecraft observing the same burst). The error boxes are the solid regions bounded by the intersections of the IPN annuli and ecliptic bands. }
+\end{center}
+\label{errorbox}
+\end{figure}
+
+\section{The IPN GRB error box construction}
+
+The error boxes for the IPN GRBs are constructed from the intersection of the triangulated 3-$\sigma$ IPN annuli and different field--of--view blocking constraints (if present). See Figure \ref{fig:error_box} for an illustration example. When the constraints involve Konus-WIND ecliptic latitude bands, the error box that will be kept is located between the ecliptic bands. The reason for this is that the Konus-WIND spacecraft consists of two detectors, one facing the north ecliptic pole, and the other facing the south ecliptic pole. By comparing the count rates on these two detectors, the Konus team obtains an estimate of the ecliptic latitude of the burst. Typically, the band is 20-30 degrees wide, and it is good to a 90--95\% confidence; systematic and statistical errors usually prevent it from being much more accurate than this value. In those cases where we have a single triangulation annulus, plus an ecliptic latitude band, the result is often two long, narrow error boxes, where the annulus intersects the band. Konus-WIND is positioned at a Lagrange point between Earth and Sun (L1) and it has two GRB detectors - Konus1 that points southward and Konus2 that points northward. By comparing the event count rates from the two detectors one can provide a spacecraft spin elevation measurement that translates to an ecliptic latitude source location. This is always at the same sky location (since Konus is fixed with respect to Earth--Sun, RA $\sim 270^{\circ}$, dec $\sim 66^{\circ}$) with a constant difference in radii (width) of about $20-30^{\circ}$. Konus provides active location of IPN GRBs twofold: by introducing this ecliptic band (which is independent of triangulation with other spacecraft) that superimposed with other IPN annuli reduces the overall area of the error boxes \emph{and} contributes to the timing and triangulation of IPN annuli together with other IPN spacecraft.Other intersections are possible, too, such as a single long, narrow error box if the IPN annulus grazes the ecliptic latitude band. Also, anything that overlaps a region where a planet blocks the view will be discarded.
+
+\section{Determining the GRB time of arrival}
+
+The Earth crossing time, also referred to as the time of arrival of the burst, is the time when the gamma ray signal would cross the center of the Earth and is the reference time to be considered when constructing the time search window for gravitational waves. 
+This time can only be estimated based on the burst arrival times at the different IPN satellites and based on their positions with respect to Earth. This way of choosing the burst time is prone to two types of uncertainties: the first is simply the fact that we may not have the time at Earth but at a satellite that is separated from Earth by a certain distance; the error is directly proportional to the distance to Earth where the closest IPN satellite is located at the time of the burst. The best estimate comes from any satellite that is not interplanetary (i.e. not on orbit around Mars or at a distant point from Earth).  These ``close'' satellites are usually within a fraction of a light second distance from Earth.  These uncertainties are small, less than 1 second for satellites orbiting Earth but may be of up to 5 seconds or more for interplanetary satellites. The second kind of uncertainty comes from the fact that the IPN consists of nine spacecraft with different energy ranges and different spectral sensitivities. So it is possible, in an extreme case, to have one spacecraft trigger on a GRB precursor, while the others trigger on the main burst, resulting in a time difference.  This way, the trigger times can differ by tens of seconds or more.  For short GRBs this effect is minimized due to the hard nature of their spectra and consequently reduces to under one second imprecision. Altogether, time imprecisions are not more than 5s for the burst sample we will be analyzing. The few GRBs that have a timing imprecision greater than 1 second are localized by distant satellites, usually MESSENGER/Mars Odyssey and/or Konus-WIND.
+
+\section{Gravitational waves data availability}
+Our aim is to perform a search for GW associated with the well or fairly well localized short GRBs detected by the IPN during LIGO's S5 run that lasted from 4 November 2005 to 30 September 2007, and Virgo's VSR1 that lasted from 18 May 2007 to 30 September 2007 (see also Chapter \ref{Chapter Four}, Table \ref{tab:sciencetimes} for science run times). The analysis will make use of data from four operational GW interferometers: the 4km and 2km co-located LIGO detectors at Hanford, WA (H1 and H2), the 4km detector at Livingston, LA (L1) and the 4km detector at Cascina, Italy (V1) \cite{Abbott:2007kv, Abadie:2010px, virgostatus}. The search will be using a method that coherently combines data from multiple operational GW detectors described in \cite{Harry:2010fr}; the method is being used in GW-GRB searches for S6/VSR2-3 \cite{lvc:s6grb} and is proven to be performing better than the method used for the S5/VSR1 search \cite{Harry:2010fr, Abadie:2010uf, Collaboration:2009kk}; we require that all GRBs have data from at least two GW detectors. In order to perform the search, we require approximately forty minutes of data around the time of the GRB. The search pipeline identifies a foreground time representing the time interval around the actual burst when the signal is most likely to have been detected by the GW detectors. For the IPN GRBs that have a burst time of arrival error less than a second, based on the delay between the time of the arrival of the gamma ray and of the GW (described above) an interval of 5 seconds prior to the GRB time and 1 second following it will be used as foreground. This time interval will account for any timing imprecisions and has been previously used in the S5/VSR1 search for GW associated with the Swift GRBs \cite{Abadie:2010uf}. For the IPN GRBs that have a time of arrival error larger than 1 second, the foreground will be extended on either side to account for this error.  The data surrounding the time of the GRB are used for background estimation, in order to assess the data quality in the detectors around the time of the GRB. 
+
+The LIGO-Virgo detector network \cite{Abbott:2007kv, Abadie:2010px, virgostatus} is sensitive to a large fraction of the sky, albeit with relatively poor localization capability (on the order of tens or hundreds of square degrees)
+\cite{Fairhurst:2010is} (see also Chapter \ref{Chapter One} for a brief overview of GW signal localization theory with a network of detectors). In much the same way as the IPN network, the GW network of detectors can reconstruct a sky position primarily through triangulation. A GW signal with an SNR large enough to be detected will have its sky location resolved by timing its arrival at the different GW detectors.  The approximate timing resolution between two detectors in the network is $\sim$0.5ms, giving a best angular resolution of around $2^\circ$.  When performing a search for a GW signal associated with a GRB, the data from the various detectors in the network is coherently added with the appropriate time delays between detectors corresponding to a given sky location.  Thus, if the IPN error box spans a large region of the sky, it is necessary to search several different sky positions for a GW signal.
+
+The IPN GRB error boxes may differ in shape and size, with areas ranging from fractions to hundreds or even thousands of square degrees. The short GRBs we chose for analysis have either small or very narrow and elongated error boxes which will make the gravitational waves search much easier and less computing intensive.  These error boxes are tiled by a set of points spaced by $1.8^{\circ}$ in each direction.  An empirical upper limit of 100 square degrees was chosen for the maximum $\Delta A$ area of the error box, necessitating a maximum of about 30 independent sky points to search the error box.  Searching over more than 30 points requires significant computational cost and much of the sensitivity improvement for the GRB triggered search over the all sky searches that have been performed would be lost.
+
+The short GRBs for which GW data from only the H1 and H2 detectors is available are a special case.  Since these two detectors are co-located and co-aligned, they would observe any gravitational wave signal at the same time, irrespective of the location of the signal. Hence, all the search points are degenerate, i.e. using just these two detectors would not allow us any spatial sensitivity since there is no time delay between these and triangulation is impossible. A limited size error box is not a requirement for these bursts any more and any short burst, no matter how extended the error box, as long as it has available data from H1 and H2, will be analyzed. Furthermore, although all-time all-sky searches for GW during S5/VSR1 have been published \cite{Abadie:2010yba, Abbott:2009dk}, these searches did not make use of the H1-H2 data in the way we will do.  This was because, as the detectors are co-located, they share many common sources of noise.  Consequently, the usual method of estimating background by introducing an artificial time shift between the detector data is not applicable.  This renders an all time search difficult as we have no accurate way of measuring the noise background.  For the previous searches only the few loudest H1-H2 coincident events were considered based on no background estimations and solely on the coincidence test. For a GRB search, we can make use of data away from the time of the GRB (without time shifting) to estimate the background, therefore providing us with a significant increase in sensitivity.
+
+Depending on detector data availability and error box size we divide the GRB sample to be analyzed into two groups: 14 short bursts with error boxes smaller than $100~\mathrm{deg}^2$ and available data from at least two sites and 6 short bursts with an arbitrarily sized error box area that have available data from H1H2 only. Six bursts have large error boxes and will be considered only for an archival look-up in the S5/VSR1 all-sky all-time data and three other bursts have already been analyzed and published previously. This data is summarized in Table \ref{tab:ipn_grb}.
+
+\vspace{1cm}
+
+We have presented the methodology for a search for gravitational waves around the times of short GRBs detected by the IPN during S5 and VSR1. This search is well under way, at the time of this writing, with analysis method and partial results described in the next chapter, Chapter \ref{Chapter Seven}.
+
+\begin{table}
+\begin{center}
+
+1. Short IPN GRBs with $\Delta A < 100 ~\mathrm{deg}^2$ and data from two or more GW detector sites that will be analyzed
+\begin{tabular}{*{7}{l}}
+\hline
+GRB&IPN&GW&GRB Date&$T_{90}$(s)&$\Delta A$($\mathrm{deg}^2$)&$\Delta t$(s)\cr
+\hline
+060103&MO/I &H1H2L1&Jan 03 2006 08:42:17& 2.00&9.30&$<$1\cr
+060107&K/MO/S&H1H2L1&Jan 07 2006 01:54:40&3.00&8.20&1.0\cr
+060203&K/MO/H&H1H2L1&Feb 03 2006 07:28:58&0.40&0.80&$<$1\cr 
+060415B&K/MO/S&H1H2L1&Apr 15 2006 18:14:44&0.44&0.20&$<$1\cr
+060522C&S/K/MO&H1H2L1&May 22 2006 10:10:19&1.10&0.40&$<$1\cr 
+060708B&H/K/MO&H1H2L1&Jul 08 2006 04:30:38&1.00&0.06&$<$1\cr
+060930A&K/MO&H1H2L1&Sept 30 2006 02:30:11&1.00&2.40&1.0\cr
+061006A&K/MO/S&H1H2L1&Oct 06 2006 08:43:38&1.60&3.20&1.0\cr
+070321&I/K/MO/S&H1H2L1&Mar 21 2007 18:52:15&0.34&0.40&$<$1\cr
+070414&S/M&H1H2L1&Apr 14 2007 17:19:52&0.38&0.30&$<$1\cr
+070516&I/K/M/S&H1H2L1&May 16 2007 20:41:24&1.00&7.68&1.0\cr
+070614&K/H&H1H2L1V1&Jun 14 2007 05:05:09&0.40&$\sim$68&$<$1\cr 
+070915&Sw/I/M/K&H1H2L1V1&Sept 15 2007 08:34:48&0.50&0.10&$<$1\cr
+070927A&Sw/M/I&L1V1&Sept 27 2007 16:27:55&0.70&1.60&$<$1\cr
+\hline
+\end{tabular}
+
+\vspace{1mm}
+
+2. Short IPN GRBs with data from H1H2-only that will be analyzed
+\begin{tabular}{*{7}{l}}
+\hline                          
+GRB&IPN&GW&GRB Date&$T_{90}$(s)&$\Delta A$($\mathrm{deg}^2$)&$\Delta t$(s)\cr
+\hline
+060317&K/S/I &H1H2&Mar 17 2006 11:17:39&0.70&9.24&$<$1\cr
+060601B&I/S&H1H2&Jun 01 2006 07:55:41&0.50&$\sim$600&$<$1\cr
+061001&I/Sw&H1H2&Oct 01 2006 21:14:28&1.00&$\sim$2000&$<$1\cr
+070129B&S/K&H1H2&Jan 29 2007 22:09:26&0.22&47.50&$<$1\cr
+070222&K/MO&H1H2&Feb 22 2007 07:31:55&1.00&0.45&$<$1\cr
+070413&I/S&H1H2&Apr 13 2007 20:37:55&0.19&$\sim$350&$<$1\cr
+\hline
+\end{tabular}
+
+\vspace{1mm}
+
+3. Short IPN GRBs with $\Delta A > 100 ~\mathrm{deg}^2$ and data from two or more GW detector sites for archival data look-up only
+\begin{tabular}{*{7}{l}}
+\hline
+GRB&IPN&GW&GRB Date&$T_{90}$(s)&$\Delta A$($\mathrm{deg}^2$)&$\Delta t$(s)\cr
+\hline
+060916&S/I&H1H2L1&Sept 16 2006 14:33:34&0.13&$>$3000&$<$1\cr
+061014&I/H&H1L1&Oct 14 2006 06:17:02&1.5&$>$3000&$<$1\cr
+061111B&K/Sw&H1H2L1&Nov 11 2006 10:54:27&0.6&$\sim$700&$<$1\cr
+070203&I/S&H1H2L1&Feb 03 2007 23:06:44&0.69&$>$2000&$<$1\cr
+070721C&K/I&H1H2V1&Jul 21 2007 14:24:09&1.00&495&$<$1\cr
+070910&K/S&H1H2L1V1&Sept 10 2007 17:33:29&0.38&$>$200&$<$1\cr
+\hline
+\end{tabular}
+
+\vspace{2mm}
+
+4. Short IPN GRBs that have already been analyzed and published
+\begin{tabular}{*{3}{l}}
+\hline
+GRB&IPN&Reference\cr
+\hline
+060427&K/MO/I/Sw&\cite{Abadie:2010uf, Collaboration:2009kk}\cr
+060429A&S/K/MO&\cite{Abadie:2010uf, Collaboration:2009kk}\cr
+070201&K/M/I&\cite{Abbott:2007rh}\cr
+\hline
+\end{tabular}
+
+\vspace{2mm}
+
+\caption{\label{tab:ipn_grb}The short S5/VSR1 IPN GRB sample - 14 with data from multiple non-H1H2-only GW detectors and well localized bursts (error box area $\Delta A <$100$~\mathrm{deg}^2$);  6 H1H2-only poorly localized bursts; 6 multiple GW detectors for poorly localized bursts; 3 bursts previously analyzed and published. $\Delta t$ represents the time of arrival error. The IPN satellites that observed the bursts: S - Suzaku, Sw - \emph{Swift}, I - INTEGRAL, M - MESSENGER, MO - Mars Odyssey, K - Konus-WIND, H - HESSI (RHESSI).}
+\end{center}
+\end{table} 

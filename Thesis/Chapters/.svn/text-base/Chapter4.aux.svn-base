@@ -1,0 +1,184 @@
+\relax 
+\citation{Abadie:2010uf}
+\citation{lvc:s6grb}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Gravitational waves: coincident and coherent searches with short GRB triggers}{87}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{Chapter Four}{{4}{87}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Introduction}{87}}
+\citation{gcns}
+\citation{Abadie:2010uf}
+\citation{Abbott:2009qj}
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Duration of LIGO and Virgo science times.}}{88}}
+\newlabel{tab:sciencetimes}{{4.1}{88}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Coincident triggered search}{88}}
+\newlabel{coincident_GRB}{{4.2}{88}}
+\acronymused{CBC}
+\citation{070429b}
+\citation{Cenko:2008vt}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}GRB070429B -- overview}{89}}
+\newlabel{grb070429boverview}{{4.2.1}{89}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Astronomical and GW detector data for GRB070429B. GRB070429B is a very short gamma-ray burst with $T_{90}$ duration of only 0.5s. The GRB was observed almost overhead by the GW detectors (H1 and L1, with an RMS antenna factor of 0.96). The confirmed redshift of the burst places it at a distance of $\approx $4 Gpc.}}{90}}
+\newlabel{Table_grb070429b}{{4.2}{90}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Data Segments and PSD generation}{90}}
+\newlabel{grb070429bsegments}{{4.2.2}{90}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Data segments availability for GRB070429B -- the "0" line represents the trigger time (the burst arrival time recorded by \emph  {Swift} satellite); solid colors for the IFO (detectors) show continuous science--mode.}}{91}}
+\newlabel{grbsegments}{{4.1}{91}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}Two--stage coincident pipeline}{91}}
+\newlabel{pipeline}{{4.2.3}{91}}
+\@writefile{toc}{\contentsline {paragraph}{Pipeline overview}{91}}
+\acronymused{SNR}
+\citation{Abadie:2010px,Allen:1996,Adhikari:2003}
+\citation{Abadie:2010uf}
+\citation{Blanchet:2001dw}
+\citation{Allen:2004gu}
+\acronymused{SNR}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.4}Template bank}{92}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Stage 1 of the CBC inspiral pipeline}}{93}}
+\newlabel{cbcstage1}{{4.2}{93}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.5}Trigger generation}{93}}
+\citation{Robinson:2008un}
+\citation{Robinson:2008un}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Stage 2 of the CBC inspiral pipeline}}{94}}
+\newlabel{cbcstage2}{{4.3}{94}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces SNR time--series for Hanford H1 triggers for GRB070429B. We notice two loud glitches with SNR$\approx $40; the gap region corresponds to the ``on--source'' segment that we will examine visually only at the end of the analysis.}}{95}}
+\newlabel{H1snr}{{4.4}{95}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.6}Coincidence test and coincidence events}{95}}
+\newlabel{grb070429bcoincidence}{{4.2.6}{95}}
+\citation{Abbott:2009tt,Abadie:2010yb}
+\citation{Blackburn:2008ah,Macleod:2011up}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.7}Ranking statistic}{97}}
+\newlabel{eqn:roeff}{{4.2}{97}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.8}Data quality vetoes}{97}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.9}Background estimation}{98}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.10}Simulated signals}{100}}
+\newlabel{siminj}{{4.2.10}{100}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Cumulative histogram of the loudest coincident triggers in low chirp mass bin versus combined effective SNR squared (proportion of triggers that have a combined effective squared SNR greater than or equal to a given value on the $x$--axis for the low chirp-mass bin). This represents the variation of the false alarm probability (FAP) with the ranking statistic. The FAP is constant and equal to 1 up to roughly an effective SNR squared of 40 corresponding to an individual detector SNR of $\approx 4.5 - 5$, that is, triggers close to threshold. It then decreases linearly down to a value of one trigger per the total number of trials ($\approx $1/300) for a single trigger with a statistic of 70, corresponding to a single detector SNR of $\rho \approx 6 - 6.5$. This is the loudest background trigger and any on--source candidate, in order to represent a possible GW detection, should be as loud or louder}}{101}}
+\newlabel{FARlowbin}{{4.5}{101}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Found/missed injections in H1: effective distance in Hanford H1 vs. chirp mass of found/missed simulations (blue triangles: found, red circles: missed). Injections with higher chirp mass tend to be found better since they have shorter templates that produce higher SNR triggers; the effective distance of a reference 1.4 -- 1.4 $\mathrm  {M}_{\odot }$ binary at which we start missing injections is $\approx $40 Mpc, roughly the inspiral horizon distance in H1 (LIGO's H1 and L1 inspiral horizon distances at the time of GRB070429B were $\sim $35 Mpc for H1 and $\sim $34 Mpc for L1 respectively).}}{102}}
+\newlabel{injectionsH1}{{4.6}{102}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Found/missed injections in H1: effective distance in Hanford H1 vs. time. There are two times of poor data quality (``glitchy'' times) where injections are missed consistently at distances below the inspiral horizon distance, at 20--30 Mpc; we expect the fraction of missed/found injections to increase significantly at distances above 50 Mpc.}}{103}}
+\newlabel{injectionstimeH1}{{4.7}{103}}
+\citation{Abadie:2010uf}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.11}Results: detection statement}{104}}
+\newlabel{coinklike}{{4.5}{104}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces False alarm probability for the on--source events in each chirp mass bin of GRB070429B, computed simply by counting the louder events in the background and dividing by the number of effective trials. The high chirp mass bin candidate, with FAP=0.117, is the most ``significant'' but only $\approx $35th loudest event of on-- and off--source collectively. The values on the $x$--axis correspond to the SNR of the loudest event in each of the chirp mass bins, plotted as solid bars on the $y$--axis.}}{105}}
+\newlabel{fig:far}{{4.8}{105}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.12}Results: distance exclusion}{105}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.9}{\ignorespaces The loudest on--source event (vertical dashed line) with respect to the background distribution of events (blue/dotted line). The figure can be easily interpreted since the $x$--axis represents a statistic constructed from the likelihood given by equation 4.5\hbox {}, that combines across the three chirp mass bins, and the $y$--axis is the event's probability of being drawn from the background sample -- this way we can see that the on--source event falls well in the background distribution and is not near the high--SNR ``tail'' of the rarest background events..}}{106}}
+\newlabel{onoffevents}{{4.9}{106}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.13}Search summary}{106}}
+\citation{Harry:2011qh}
+\citation{lvc:s6grb}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Coherent triggered search}{107}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}Introduction}{107}}
+\acronymused{CBC}
+\acronymused{GW}
+\citation{Blackburn:2008ah}
+\citation{Allen:2004gu,Hanna:2008}
+\citation{gcn9864}
+\citation{gcn9864}
+\citation{konus}
+\citation{konus}
+\citation{gcn9864}
+\citation{gcn9864}
+\acronymused{GRB}
+\acronymused{GW}
+\acronymused{CBC}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}Coherent search associated with GRB090831A}{108}}
+\newlabel{coh_search_grb}{{4.3.2}{108}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.3}{\ignorespaces Astronomical and detector data for GRB090831A. This was initially considered a long GRB/later considered short with an extended $T_{90}$ duration of $\approx $ 69 s and was observed by Fermi--GBM (and other missions, see text) to an approximate circular 1--$\sigma $ and systematics error box with a radius of 12.774 degrees. The active GW detectors were Hanford H1 and Virgo V1. Antenna factors are 0.146 and 0.881, respectively.}}{108}}
+\newlabel{Table_grb090831a}{{4.3}{108}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.10}{\ignorespaces GRB090831A error region: blue star represents the Fermi--GBM localization error box best fit position; pink circle and star represent the MAXI (ISS) localization error box and best fit position, respectively; the hashed region represents the refined position with the help of IPN localization. The position accepted for the GW--GRB search was a conservative Fermi--GBM--only, centered at RA=145.1 and dec=51.0 degrees, with an error circle radius of $\approx $12.8 degrees -- figure from \cite  {gcn9864}.}}{109}}
+\newlabel{GRB090831A_IPN}{{4.10}{109}}
+\@writefile{toc}{\contentsline {paragraph}{GRB090831A overview}{109}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.11}{\ignorespaces Konus--WIND GCN GRB090831A light curve (LC, $\gamma $ photon counts/s vs. time in the 50--200 keV band) showing a single intense peak followed by secondary and tertiary peaks. The $T_{90} \approx $69 s but this burst was still considered short based on visual inspection of this light curve \cite  {konus}.}}{110}}
+\newlabel{090831a_lc}{{4.11}{110}}
+\@writefile{toc}{\contentsline {paragraph}{Coherent SNR}{110}}
+\citation{Harry:2011qh}
+\citation{Bliving}
+\citation{Hannam:2009hh}
+\citation{OwenSathyaprakash98}
+\citation{Abadie:2010px}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.12}{\ignorespaces The coherent SNR time series.}}{111}}
+\newlabel{cohnull}{{4.12}{111}}
+\@writefile{toc}{\contentsline {paragraph}{Null--stream}{111}}
+\acronymused{SNR}
+\acronymused{SNR}
+\citation{Harry:2011qh}
+\@writefile{toc}{\contentsline {paragraph}{Coherent $\chi ^2$ test}{112}}
+\acronymused{GW}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.13}{\ignorespaces Coherent $\chi ^2$ test applied to background (blue) and injection (red) triggers for the analysis of GRB090831A. The cut proves effective in eliminating about a quarter of the lower--SNR background triggers (SNR$\approx $6--7) and a few injections.}}{112}}
+\newlabel{cohchi}{{4.13}{112}}
+\@writefile{toc}{\contentsline {paragraph}{Coherent bank $\chi ^2$ test}{112}}
+\acronymused{GW}
+\citation{Hanna:2008}
+\citation{Harry:2011qh}
+\citation{Hanna:2008}
+\citation{Hanna:2008}
+\citation{Harry:2011qh}
+\acronymused{CBC}
+\acronymused{SNR}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.14}{\ignorespaces An example of the application of the coherent bank $\chi ^2$ test is shown in the case of the GRB090831A analysis. We can see that this discriminator is powerful in this case, in removing background triggers (blue crosses) and a few low--SNR injections (red crosses). There is a number of background triggers close to threshold SNR that the test removes and a glitch at SNR$\approx $7 coincident with an injection, that the test misses.}}{113}}
+\newlabel{cohbank}{{4.14}{113}}
+\@writefile{toc}{\contentsline {paragraph}{Coherent autocorrelation $\chi ^2$ test}{113}}
+\acronymused{GW}
+\acronymused{SNR}
+\acronymused{SNR}
+\acronymused{SNR}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.15}{\ignorespaces The autocorrelation $\chi ^2$ test for GRB090831A.}}{114}}
+\newlabel{cohauto}{{4.15}{114}}
+\@writefile{toc}{\contentsline {paragraph}{Coherent background estimation}{114}}
+\newlabel{eq:rho_det}{{4.7}{114}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.16}{\ignorespaces Coherent analysis loudest background events in the high chirp mass bin. We can find very few triggers that pass the signal--based vetoes and the maximum value for the detection statistic is $\approx $7.}}{115}}
+\newlabel{cohBG}{{4.16}{115}}
+\citation{lvc:s6grb}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\@writefile{toc}{\contentsline {paragraph}{Results: distance exclusion and search sensitivity}{116}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}Triggered searches: sensitivity improvement}{116}}
+\newlabel{sens_imprv}{{4.4}{116}}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\acronymused{CBC}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.17}{\ignorespaces Histogram of the loudest background events in the zero--lag (triangles) and timeslides (100 timeslides, crosses) for a week of data around the GRB090809B trigger time, for an all--sky search. The ``loudest'' zero--lag event has an SNR$\approx $9.2 and the ``loudest'' timeslide event has an SNR$\approx $10.3. The analysis was made using the all--time, all--sky search pipeline (ihope, \cite  {Abadie:2010yb, Colaboration:2011nz}).}}{117}}
+\newlabel{090809B_allsky_1week}{{4.17}{117}}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.18}{\ignorespaces Histogram of the loudest background events in the zero--lag (triangles) and timeslides (100 timeslides, crosses) for a day of data around the GRB090809B trigger time, for an all--sky search. The ``loudest'' zero--lag event has an SNR$\approx $8.4 and the ``loudest'' timeslide event has an SNR$\approx $9.5. The analysis was made using the all--time, all--sky search pipeline (ihope, \cite  {Abadie:2010yb, Colaboration:2011nz}).}}{118}}
+\newlabel{090809B_allsky_1day}{{4.18}{118}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.19}{\ignorespaces Histogram of the loudest background events in the zero--lag (triangles) and timeslides (100 timeslides, crosses) for 2000 s of data around the GRB090809B trigger time, for an all--sky search. The ``loudest'' zero--lag event has an SNR$\approx $8.4 and the ``loudest'' timeslide event has an SNR$\approx $9.2. The analysis was made using the all--time, all--sky search pipeline (ihope, \cite  {Abadie:2010yb, Colaboration:2011nz}) on a limited size data stretch.}}{119}}
+\newlabel{090809B_allsky_2000s}{{4.19}{119}}
+\citation{Abadie:2010uf}
+\citation{lvc:s6grb}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.20}{\ignorespaces Histogram of the loudest background events in the zero--lag (triangles) and timeslides (100 timeslides, crosses) for 2000 s of data around the GRB090809B trigger time, for a triggered search at the sky location of the GRB. The ``loudest'' zero--lag event has an SNR$\approx $7.9 and the ``loudest'' timeslide event has an SNR$\approx $8.6. The analysis was made using the all--time, all--sky search pipeline (ihope, \cite  {Abadie:2010yb, Colaboration:2011nz}) on a limited size data stretch imposing condition on timedelays between operational detectors to search the the GRB sky location.}}{120}}
+\newlabel{090809B_directed_2000s}{{4.20}{120}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.4}{\ignorespaces Relative increases in search sensitivity for an identical search (same search parameters, using a single GRB trigger) performed on 1 week, 1 day and 2000s of data in all--sky mode and 2000s of data in typical GRB--triggered mode. $\rho {max}$ results are quoted at a fixed false alarm rate. Results suggest a typical increase of $\approx $20\% in sensitivity from a search on 1 week of data all--sky to 2000s triggered; knowing the sky location of the GRB accounts for an increase of 6.4\% whereas knowing the exact time and being able to perform a search on a short stretch of data increases the sensitivity by 12.8\% (1 week $\rightarrow $ 2000s).}}{121}}
+\newlabel{trig_untrig_comp}{{4.4}{121}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.5}Discussion}{121}}
+\citation{Abadie:2010uf}
+\citation{Harry:2010fr}
+\@setckpt{Chapters/Chapter4}{
+\setcounter{page}{123}
+\setcounter{equation}{9}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{3}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{4}
+\setcounter{section}{5}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{20}
+\setcounter{table}{4}
+\setcounter{NAT@ctr}{0}
+\setcounter{parentequation}{114}
+}

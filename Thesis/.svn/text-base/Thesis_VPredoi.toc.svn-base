@@ -1,0 +1,146 @@
+\contentsline {paragraph}{Results Disclaimer}{xx}
+\contentsline {chapter}{\numberline {1}Gravitational Waves Theory and Detectors}{1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1.1}Gravitational waves sources}{2}
+\contentsline {subsection}{\numberline {1.1.2}Observational evidence of \ac {GW}}{4}
+\contentsline {section}{\numberline {1.2}Linearized Gravity and Gravitational Waves}{6}
+\contentsline {subsection}{\numberline {1.2.1}Einstein's field equations and the weak--field approximation}{6}
+\contentsline {subsection}{\numberline {1.2.2}Transverse traceless gauge}{10}
+\contentsline {subsection}{\numberline {1.2.3}Mass quadrupole}{13}
+\contentsline {section}{\numberline {1.3}Gravitational waves from a compact binary coalescence}{16}
+\contentsline {subsection}{\numberline {1.3.1}Compact binary coalescence parameters}{16}
+\contentsline {subsection}{\numberline {1.3.2}Time evolution of the system}{17}
+\contentsline {subsection}{\numberline {1.3.3}Energy loss in the system}{18}
+\contentsline {subsection}{\numberline {1.3.4}Phase evolution of the system}{19}
+\contentsline {subsection}{\numberline {1.3.5}Frequency domain waveforms}{21}
+\contentsline {section}{\numberline {1.4}Gravitational Wave Detectors -- Theoretical Aspects}{23}
+\contentsline {subsection}{\numberline {1.4.1}A simplified laser interferometer}{23}
+\contentsline {subsection}{\numberline {1.4.2}Response of an interferometer to a gravitational wave}{26}
+\contentsline {subsubsection}{The effect of a \ac {GW} at the detector}{26}
+\contentsline {subsubsection}{Detector antenna pattern functions}{28}
+\contentsline {subsubsection}{A CBC $h(\tau )$ at the detector}{30}
+\contentsline {subsection}{\numberline {1.4.3}Gravitational radiation from a binary neutron star merger}{31}
+\contentsline {section}{\numberline {1.5}Gravitational Waves Detectors -- Practical Issues}{33}
+\contentsline {subsection}{\numberline {1.5.1}Stationary noise sources}{33}
+\contentsline {subsection}{\numberline {1.5.2}Non--stationary noise sources}{35}
+\contentsline {section}{\numberline {1.6}A network of gravitational waves interferometers}{35}
+\contentsline {subsection}{\numberline {1.6.1}LIGO and Virgo detectors}{36}
+\contentsline {subsection}{\numberline {1.6.2}The Advanced Detectors}{38}
+\contentsline {subsection}{\numberline {1.6.3}Sky localization with a network of \ac {GW} detectors}{39}
+\contentsline {chapter}{\numberline {2}Astrophysically Triggered Searches for Gravitational Waves}{40}
+\contentsline {section}{\numberline {2.1}Introduction}{40}
+\contentsline {section}{\numberline {2.2}Short Hard Gamma Ray Bursts}{42}
+\contentsline {subsection}{\numberline {2.2.1}SHB progenitors, their host galaxies and local rates}{44}
+\contentsline {paragraph}{SHB progenitors}{44}
+\contentsline {paragraph}{Binary merger rates}{46}
+\contentsline {subsection}{\numberline {2.2.2}Emission mechanism}{47}
+\contentsline {paragraph}{GW--gamma-ray emission time difference}{47}
+\contentsline {paragraph}{Are short gamma-ray bursts collimated?}{50}
+\contentsline {subsection}{\numberline {2.2.3}Gamma ray observation missions}{51}
+\contentsline {paragraph}{\emph {Swift}:}{51}
+\contentsline {paragraph}{Fermi--GBM:}{51}
+\contentsline {paragraph}{The InterPlanetary Network:}{52}
+\contentsline {paragraph}{Future missions:}{52}
+\contentsline {subsection}{\numberline {2.2.4}Astrophysics with SHB and GW}{53}
+\contentsline {section}{\numberline {2.3}Radio signatures of compact binary coalescences}{55}
+\contentsline {subsection}{\numberline {2.3.1}Overview}{55}
+\contentsline {subsection}{\numberline {2.3.2}Search tools: radio telescopes and gravitational wave interferometers}{55}
+\contentsline {subsubsection}{Radio telescopes and recent radio transients survey activity}{55}
+\contentsline {paragraph}{Low Frequency Array (LOFAR)}{56}
+\contentsline {paragraph}{Eight-meter Transient Array (ETA)}{56}
+\contentsline {paragraph}{Green Bank NRAO}{57}
+\contentsline {paragraph}{Arecibo}{57}
+\contentsline {paragraph}{}{57}
+\contentsline {subsection}{\numberline {2.3.3}Radio and Gravitational Wave Sources}{57}
+\contentsline {subsubsection}{Neutron Star Binaries}{58}
+\contentsline {paragraph}{Radio emission due to strong magnetic fields}{58}
+\contentsline {paragraph}{Plasma excitation through relativistic magnetohydrodynamics}{60}
+\contentsline {subsubsection}{Gamma ray bursts}{60}
+\contentsline {subsection}{\numberline {2.3.4}Unidentified radio transients}{61}
+\contentsline {subsection}{\numberline {2.3.5}Dispersion in the intergalactic and interstellar media and Compton scattering}{62}
+\contentsline {subsection}{\numberline {2.3.6}Joint radio-GW searches}{63}
+\contentsline {subsubsection}{Follow-up of radio transients in archived gravitational wave data}{63}
+\contentsline {subsubsection}{Gravitational wave events followed-up by radio observations}{65}
+\contentsline {section}{\numberline {2.4}Discussion}{65}
+\contentsline {chapter}{\numberline {3}Gravitational waves data analysis: theoretical aspects}{68}
+\contentsline {section}{\numberline {3.1}Introduction}{68}
+\contentsline {section}{\numberline {3.2}Matched--filtering}{69}
+\contentsline {section}{\numberline {3.3}The likelihood function: coincident and coherent analyses}{73}
+\contentsline {subsection}{\numberline {3.3.1}Coincident signal--to--noise ratio}{73}
+\contentsline {subsection}{\numberline {3.3.2}Coherent signal--to--noise ratio}{75}
+\contentsline {section}{\numberline {3.4}Template Bank}{78}
+\contentsline {section}{\numberline {3.5}The $\chi ^2$ test}{81}
+\contentsline {section}{\numberline {3.6}Horizon distance}{83}
+\contentsline {chapter}{\numberline {4}Gravitational waves: coincident and coherent searches with short GRB triggers}{87}
+\contentsline {section}{\numberline {4.1}Introduction}{87}
+\contentsline {section}{\numberline {4.2}Coincident triggered search}{88}
+\contentsline {subsection}{\numberline {4.2.1}GRB070429B -- overview}{89}
+\contentsline {subsection}{\numberline {4.2.2}Data Segments and PSD generation}{90}
+\contentsline {subsection}{\numberline {4.2.3}Two--stage coincident pipeline}{91}
+\contentsline {paragraph}{Pipeline overview}{91}
+\contentsline {subsection}{\numberline {4.2.4}Template bank}{92}
+\contentsline {subsection}{\numberline {4.2.5}Trigger generation}{93}
+\contentsline {subsection}{\numberline {4.2.6}Coincidence test and coincidence events}{95}
+\contentsline {subsection}{\numberline {4.2.7}Ranking statistic}{97}
+\contentsline {subsection}{\numberline {4.2.8}Data quality vetoes}{97}
+\contentsline {subsection}{\numberline {4.2.9}Background estimation}{98}
+\contentsline {subsection}{\numberline {4.2.10}Simulated signals}{100}
+\contentsline {subsection}{\numberline {4.2.11}Results: detection statement}{104}
+\contentsline {subsection}{\numberline {4.2.12}Results: distance exclusion}{105}
+\contentsline {subsection}{\numberline {4.2.13}Search summary}{106}
+\contentsline {section}{\numberline {4.3}Coherent triggered search}{107}
+\contentsline {subsection}{\numberline {4.3.1}Introduction}{107}
+\contentsline {subsection}{\numberline {4.3.2}Coherent search associated with GRB090831A}{108}
+\contentsline {paragraph}{GRB090831A overview}{109}
+\contentsline {paragraph}{Coherent SNR}{110}
+\contentsline {paragraph}{Null--stream}{111}
+\contentsline {paragraph}{Coherent $\chi ^2$ test}{112}
+\contentsline {paragraph}{Coherent bank $\chi ^2$ test}{112}
+\contentsline {paragraph}{Coherent autocorrelation $\chi ^2$ test}{113}
+\contentsline {paragraph}{Coherent background estimation}{114}
+\contentsline {paragraph}{Results: distance exclusion and search sensitivity}{116}
+\contentsline {section}{\numberline {4.4}Triggered searches: sensitivity improvement}{116}
+\contentsline {section}{\numberline {4.5}Discussion}{121}
+\contentsline {chapter}{\numberline {5}Improving searches for GW associated with GRBs}{123}
+\contentsline {section}{\numberline {5.1}Introduction}{123}
+\contentsline {section}{\numberline {5.2}Background estimation using timeslides}{125}
+\contentsline {subsection}{\numberline {5.2.1}Coincidence window estimation}{126}
+\contentsline {subsection}{\numberline {5.2.2}False Alarm Probability}{128}
+\contentsline {subsubsection}{Coincident GRB--GW search: frequentist FAP}{129}
+\contentsline {subsubsection}{Coincident GRB--GW search: Bayesian FAP}{130}
+\contentsline {subsection}{\numberline {5.2.3}False Alarm Probability for $S$ Timeslides}{132}
+\contentsline {subsection}{\numberline {5.2.4}Different scenarios for FAP and error}{135}
+\contentsline {paragraph}{Fixed time--mass coincidence window}{135}
+\contentsline {subsection}{\numberline {5.2.5}Time--mass coincidence window function of threshold SNR}{137}
+\contentsline {subsection}{\numberline {5.2.6}Repeating triggers and trigger occurrence rates}{139}
+\contentsline {subsection}{\numberline {5.2.7}Conclusions}{141}
+\contentsline {section}{\numberline {5.3}Implementing timeslides in the analysis pipeline}{142}
+\contentsline {subsection}{\numberline {5.3.1}Test GRB}{142}
+\contentsline {subsection}{\numberline {5.3.2}Implementation of timeslides}{142}
+\contentsline {subsection}{\numberline {5.3.3}Test GRB results}{145}
+\contentsline {subsection}{\numberline {5.3.4}Timeslides in the coherent search}{146}
+\contentsline {section}{\numberline {5.4}Restriction on inclination angle for nearly face--on binaries}{146}
+\contentsline {subsection}{\numberline {5.4.1}Theoretical considerations}{147}
+\contentsline {subsubsection}{Approximate case $\iota \rightarrow 0$}{147}
+\contentsline {subsubsection}{Approximate case $\iota \rightarrow \pi $}{150}
+\contentsline {section}{\numberline {5.5}Discussion}{152}
+\contentsline {chapter}{\numberline {6}Search for gravitational waves associated with the InterPlanetary Network gamma-ray bursts -- Methodology}{154}
+\contentsline {section}{\numberline {6.1}The IPN triangulation mechanism}{155}
+\contentsline {section}{\numberline {6.2}The IPN GRB error box construction}{156}
+\contentsline {section}{\numberline {6.3}Determining the GRB time of arrival}{158}
+\contentsline {section}{\numberline {6.4}Gravitational waves data availability}{158}
+\contentsline {chapter}{\numberline {7}Search for gravitational waves associated with the InterPlanetary Network gamma-ray bursts -- analysis}{163}
+\contentsline {section}{\numberline {7.1}Introduction}{163}
+\contentsline {section}{\numberline {7.2}Gamma-ray burst sample}{165}
+\contentsline {section}{\numberline {7.3}Search Methodology}{166}
+\contentsline {subsection}{\numberline {7.3.1}Overview}{166}
+\contentsline {subsection}{\numberline {7.3.2}Searching the error box}{168}
+\contentsline {subsection}{\numberline {7.3.3}Single chirp mass bin [0,8.0) $M_{\odot }$}{172}
+\contentsline {subsection}{\numberline {7.3.4}Distance exclusion}{172}
+\contentsline {subsection}{\numberline {7.3.5}H1H2--only GRBs}{174}
+\contentsline {subsection}{\numberline {7.3.6}GRB090802A, a testbed for the IPN analysis}{175}
+\contentsline {section}{\numberline {7.4}Significance of FAP population}{176}
+\contentsline {section}{\numberline {7.5}Results}{178}
+\contentsline {section}{\numberline {7.6}Possible host galaxies for two of the IPN GRBs}{180}
+\contentsline {section}{\numberline {7.7}Conclusion}{183}
+\contentsline {chapter}{\numberline {8}Concluding remarks}{186}

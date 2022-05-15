@@ -1,0 +1,260 @@
+\documentclass[12pt,a4paper]{report}
+%\usepackage[T1]{fontenc}
+\usepackage[left=1.5in,right=1in,top=1in,bottom=1in,includefoot]{geometry}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{url}
+\usepackage{textcomp}
+\usepackage{amsmath}
+\usepackage{amssymb}
+%\usepackage{mathtext}
+\usepackage{acronym}
+\usepackage{color}
+\usepackage{verbatim}
+%\usepackage[pdfpagemode={UseOutlines},bookmarks=true,bookmarksopen=true,
+%   bookmarksopenlevel=0,bookmarksnumbered=true,hypertexnames=false,
+%   colorlinks,linkcolor={blue},citecolor={blue},urlcolor={red},
+%   pdfstartview={FitV},breaklinks=true]{hyperref}
+%\usepackage{hyperref}
+%\usepackage[OT2,T1,T2C]{fontenc}
+%\usepackage[russian,USenglish]{babel}
+%\includeonly{ihope/cbc_waveform}
+
+\def\be{\begin{equation}}
+\def\ee{\end{equation}}
+\def\bea{\begin{eqnarray}}
+\def\eea{\end{eqnarray}}
+\def\cross{\times}
+\def\degreedate#1{\gdef\@degreedate{#1}}
+\def\newblock{\hskip .11em plus .33em minus .07em}
+
+%\newcommand\Declaration[1]{
+%\btypeout{Declaration of authorship}
+%\addtotoc{Declaration of authorship}
+%\thispagestyle{plain}
+%\null\vfil
+%\vskip 60\p@
+%\begin{center}{\huge \textsc{Declaration of authorship}\par}\end{center}
+%\vskip 60\p@
+%{\normalsize #1}
+%\vfil\vfil\null
+%\cleardoublepage
+%}
+
+\begin{document}
+
+\title{Gravitational Waves and Short Gamma Ray Bursts}
+
+\author{V.~Predoi}
+%\newline
+%\newline
+
+\date{Submitted for the degree of Doctor of Philosophy \\
+School of Physics and Astronomy \\
+Cardiff University \\
+July 2012}
+
+%\degreedate{Yet to be decided}
+%\address{Cardiff School of Physics and Astronomy,
+%Cardiff University, Queens Buildings, The Parade, Cardiff. CF24 3AA
+%}
+
+%\ead{\mailto{valeriu.predoi@astro.cf.ac.uk}}
+
+% This does nothing but suppresses a latex warning
+\pagenumbering{alpha}
+
+\maketitle
+
+\pagenumbering{roman}
+
+\clearpage
+
+\chapter*{Declaration of authorship}
+%\Declaration{
+%\addtocontents{toc}{}  % Add a gap in the Contents, for aesthetics
+\begin{itemize}
+\item \textsc{Declaration:}\\ This work has not previously been accepted in
+substance for any degree and is not concurrently submitted in candidature
+for any degree.
+\\
+\\
+Signed: $_{..................................................................}$
+(candidate)\ \ Date: $_{...................}$
+\\
+
+\item \textsc{Statement 1:}\\ This thesis is being submitted in partial
+fulfillment of the requirements for the degree of Doctor of Philosophy (PhD).
+\\
+\\
+Signed: $_{..................................................................}$
+(candidate)\ \ Date: $_{...................}$
+\\
+
+\item \textsc{Statement 2:}\\ This thesis is the result of my own independent
+work/investigation, except where otherwise stated. Other sources are
+acknowledged by explicit references.
+\\
+\\
+Signed: $_{..................................................................}$
+(candidate)\ \ Date: $_{...................}$
+\\
+
+\item \textsc{Statement 3}\\ I hereby give consent for my thesis, if accepted,
+to be available for photocopying and for inter-library loan, and for the
+title and summary to be made available to outside organisations.
+\\
+\\
+Signed: $_{..................................................................}$
+(candidate)\ \ Date: $_{...................}$
+\\
+\end{itemize}
+%}
+\clearpage
+
+\newpage
+\emph{To Mama, Steve and Magdalena}
+
+\newpage
+\chapter*{Summary of thesis}
+
+Short hard gamma-ray bursts (GRB) are believed to be produced by compact binary coalescences (CBC) -- either double neutron stars or neutron star--black hole binaries. The same source is expected to emit strong gravitational radiation, detectable with existing and planned gravitational wave observatories. The focus of this work is to describe a series of searches for gravitational waves (GW) from compact binary coalescence (CBC) events triggered by short gamma-ray burst detections. Specifically, we will present the motivation, frameworks, implementations and results of searches for GW associated with short gamma-ray bursts detected by \emph{Swift}, Fermi--GBM and the InterPlanetary Network (IPN) gamma-ray detectors. 
+
+We will begin by presenting the main concepts that lay the foundation of gravitational waves emission, as they are formulated in the theory of General Relativity; we will also briefly describe the operational principles of GW detectors, together with explaining the main challenges that the GW detection process is faced with. Further, we will motivate the use of observations in the electromagnetic (EM) band as triggers for GW searches, with an emphasis on possible EM signals from CBC events.
+
+We will briefly present the data analysis techniques including concepts as matched--filtering through a collection of theoretical GW waveforms, signal--to--noise ratio, coincident and coherent analysis approaches, signal--based veto tests and detection candidates' ranking. We will use two different GW--GRB search examples to illustrate the use of the existing coincident and coherent analysis methods. We will also present a series of techniques meant to improve the sensitivity of existing GW triggered searches. These include shifting background data in time in order to obtain extended coincident data and setting a prior on the GRB inclination angle, in accordance with astrophysical observations, in order to restrict the searched parameter space.
+
+We will describe the GW data analysis and present results from a GW search around 12 short gamma-ray bursts detected by the InterPlanetary Network (IPN) between 2006 and 2007. The IPN--detected bursts usually have extended localization error boxes and a search for GW was performed at different sky locations across these error regions. Since no GW detection was made, we set upper limits on the distances to the GRB progenitors; we briefly discuss the implications that two IPN GRBs error regions overlap two nearby galaxies.
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+%\include{miscellany/coauthor}
+\chapter*{Co--authored papers and Results Disclaimer}
+
+Several sections of this thesis include co--authored work previously published under the author's name and other members' of different scientific collaborations. These papers are listed below:
+%
+\begin{itemize}
+\item
+Chapter \ref{Chapter Two} gives an overview of astrophysically triggered searches for gravitational waves and includes published work from \emph{``Prospects for joint radio telescope and gravitational wave searches for astrophysical transients''} \cite{Predoi:2009af} in the section describing possible radio signatures of compact binary coalescence events. V. Predoi is lead author of the aforementioned paper, a collaborative effort with several other authors;
+\item
+Chapter \ref{Chapter Four} includes analysis results published in \emph{``Search for gravitational-wave inspiral signals associated with short Gamma-Ray Bursts during LIGO's fifth and Virgo's first science run''} \cite{Abadie:2010uf}. The author was responsible for the data analysis around one short gamma-ray burst of the total 22 analyzed and presented gamma-ray bursts. He was also actively involved in the overall analysis and publication process. The results presented in this work have been reviewed and accepted by the LIGO Scientific Collaboration and the Virgo Collaboration;
+\item
+Chapter \ref{Chapter Four} includes analysis results published in \emph{``Search for gravitational waves associated with gamma-ray bursts during LIGO science run 6 and Virgo science runs 2 and 3''} \cite{lvc:s6grb}. The author was responsible for the data analysis around two short gamma-ray bursts of the total 26 analyzed and presented gamma-ray bursts. The author was also responsible for the the correct error box analysis of GRB090802A; he was also actively involved in the overall analysis, publication and review processes. The results presented in this work have been reviewed and accepted by the LIGO Scientific Collaboration and the Virgo Collaboration;
+\item
+Chapter \ref{Chapter Six} describes the search methodology for gravitational waves associated with short gamma-ray bursts detected by the InterPlanetary Network (IPN) and includes work previously published in \emph{``Search for gravitational waves associated with the InterPlanetary Network short gamma ray bursts''} \cite{Predoi:2011aa}. The paper is a collaborative effort between V. Predoi for the LIGO Scientific Collaboration and Virgo Collaboration and K. Hurley for the IPN.
+\end{itemize}
+
+\paragraph{Results Disclaimer}
+As a disclaimer, Chapter \ref{Chapter Seven} contains \emph{partial} results of the collaborative search for gravitational waves associated with the IPN--detected short hard gamma-ray bursts during S5/VSR1. The Compact Binary Coalescence collaborative search effort has been led by the author of this thesis and these results have been presented to the Compact Binary Coalescence group on various teleconferences. However, these results are neither final, nor approved for publication yet. They are subject to change and in their final version they will be reviewed by the LIGO Scientific Collaboration and Virgo Collaboration and, upon a successful review process, will be approved for publication by the Publication and Presentation committee. Therefore, these results, as they are presented in this work, should not be referenced by any other scientific publication, nor should they be considered as representative for the LIGO--Virgo scientific output.
+
+%\input{miscellany/ack}
+\chapter*{Acknowledgements}
+
+I would like to thank a few people for the support they have offered me before and while writing this thesis. 
+
+I would like to thank Steve Fairhurst (or Boss, the way I know him), my advisor during the PhD studies. Steve is a great man and supervisor altogether, whom I admire and respect a lot both as a friend and as a scientist. Probably the two most important lessons I learned from Steve are not necessarily science--related only. On one hand, he taught me how to try understand things, however complicated might they be, by taking a step back and looking at the big picture; forget about the gritty details for a bit, and just see the thing as a whole. On the other hand, he taught me how to be critical and honest about my work -- in other words, once I saw the big picture, go back to the gritty details and don't let any of them escape my attention. He spent countless hours making sure I am on track with all the work, and I fully understand what I am doing and why I am doing it; his office door was always open when I had questions and every time I would not understand things, and more recently he spent an awful amount of time reading this very thesis and giving me countless comments and suggestions. Thank you so much, Boss, this thesis is dedicated to you since I couldn't have managed to write it if it wasn't for your help and supervision!
+
+To Ian Harry (Syracuse), Nicolas Leroy (CNRS, France) and Duncan MacLeod (Cardiff), with whom I have been working very closely for the past year, analyzing the IPN GRBs, I have to thank you for your collaborative support. Ian taught me a lot in terms of dealing with the coherent PTF code that he developed and Dunk helped me sort out lots of troubles related to running the automated jobs and postprocessing which we developed. Nicolas closely collaborated with me, while he got the GW--burst side of the analysis resolved, and helped me deal with various analysis--related issues. Very much appreciated, guys!
+
+I want to thank everybody else part of the Gravitational Waves group at Cardiff University for all the advice, support and friendship, and very good times together: Patrick Sutton and Bangalore ``Sathya'' Sathyaprakash, with whom I had a lot of interesting and very useful (to me) discussions about gamma-ray bursts and gravitational waves (and not only) and from I learned a lot; my office mates over the years -- Mark Edwards, Craig Robinson, Jeroen Meidam and Ioannis Kamaretsos with whom I always had a good laugh that helps a lot especially while trying to fix a code that wouldn't work. Mark, all my thanks for being a good friend and helping me while learning Python and C, I know I have asked quite too many questions at times, but your help was extremely useful! Craig, thanks for answering all my annoying questions about the pipeline and for all the good times at all those gigs and heavy metal nights in the city. Ioannis, many thank you's for being both a great office mate and a good supportive friend, for all your help on academic and non--academic matters and...for teaching me how to dance sirtaki (not really thesis--related but something that I am proud of nonetheless)! Chris Messenger and Mikey P$\ddot{\mathrm{u}}$rrer, two really cool guys whose office door I always slam open on a Friday afternoon calling up for pub: thanks for all the encouragement you gave me while writing this thesis and for all your valuable comments and suggestions, also for the great company and friendship outside the office realms. Laura Nuttall and Patricia Schmidt, thanks lots for all your support and kind words every time I felt down about the thesis, and telling me it's only a bit left to do. Thomas Adams, thanks for all the useful scientific conversations and, always enjoying a good Formula 1 debate. I would like to thank both James Clark (UMass) and John Veitch (NIKHEF), former members of the Cardiff group, for being good friends and helping me anytime I was in trouble and for the good times we had at heavy metal gigs and BBQs (James, I will have to thank you especially for the first year times when we were office mates and I think I asked you at least a million questions about the GRB analysis and its set--up, without even one time when you said you had enough, cheers, man!); also many thanks to Chris Van Den Broeck (NIKHEF, former Cardiff) for the very interesting discussions every time we had a cigarette break, Dave McKechan (IBM) for his very useful help with computing troubles and also for his great company over a pint, Gareth Jones for telling me a lot about GRBs and always being cheerful about everything, and Thomas Dent (MPG Hannover) for very useful discussions about background estimation and fun times drinking whiskey (well, me beer). A special thank you goes to Sarah Gossan (Caltech) for her being a good friend and such a talented cake baker. It's been a pleasure being around you, all!
+
+A special thanks goes to my thesis examiners, Dr. Mark Hannam, Prof. Martin Hendry (Glasgow) and Dr. Patrick Sutton (chair) -- thank you for reading the thesis (I know it must have been quite boring) and thank you for a very fair and stress--free defense!
+
+To the astronomers and physicists from Cardiff (Olly Lomax, George Ford, Matt Smith, Ian Harrison, Ciara Quinn, Sarah Harry, Sara Carver, Tom Hughes, Sam Rowe, Mark Doost), thank you for all the very interesting and informative discussions and challenges, I have never considered myself neither an astronomer nor a physicist and have always learned and always will learn from you! Also, thanks lots for all the good fun times, at various pub nights and parties, it was a pleasure spending time with you!
+
+It was my privilege to work with many of the LIGO and Virgo collaborations members. The list of people whom I should thank is long but I would like to mention a few of them that taught me an extra lot of new things over the years: Alexander Dietz and Nickolas Fotopoulos, with whom I worked closely part of the inspiral GRB group and helped me a lot while coding up timeslides and understanding the GRB search itself; Nicolas Leroy, Ray Frey, Isabel Leonor and Kevin Hurley for their great amount of help they have offered me while preparing the IPN GRB analysis; Scott Koranda, Duncan Brown and Igor Yakushin for sorting out all the troubles I had on the grid computer clusters. Thank you lots, gentlemen!
+
+To Matthias Winterhalter (Jacobs University Bremen), my dear undergraduate advisor, thank you for pushing me towards a PhD, I will always owe you for your trust in me and your support.
+
+\vspace{20mm}
+
+At the end I'd like to thank Magdalena, to whom I dedicate this thesis to: you, even at a long geographical distance, were always so close to me and you gave me more support than I could have ever asked for, thank you, miss!...and I'd like to thank my mom, to whom I dedicate this thesis, for all her love, support and patience over the years...multumesc, mama!
+
+\input{acronyms}
+\include{conventions}
+
+\pagenumbering{arabic}
+
+\onehalfspacing
+%\doublespacing
+
+%\include{miscellany/opening}
+
+%\singlespacing
+
+%\include{Chapters/Chapter0}
+
+\include{Chapters/Chapter1}
+
+\include{Chapters/Chapter2}
+
+\include{Chapters/Chapter3}
+
+\include{Chapters/Chapter4}
+
+\include{Chapters/Chapter5}
+
+\include{Chapters/Chapter6}
+
+\include{Chapters/Chapter7}
+
+\include{Chapters/Chapter8}
+
+
+%\include{LISAsmbbh/SMBBHsearch}
+
+%\include{blackholehunter/Blackholehunter}
+
+%\include{miscellany/conclusion}
+
+\chapter*{Appendix}
+\label{Appendix}
+
+To begin our derivations, we first need to define a few useful formulae: the Fourier transform of a continuous function of time $F(t)$ as denoted by $\tilde F (f)$ and is given by:
+
+\begin{equation}
+{\tilde F}(f) = \int {\rm e}^{- 2 \pi i f t} F(t) dt.
+\end{equation}
+
+\noindent The inverse Fourier transform will be conversely:
+
+\begin{equation}
+F(t)= \int {\rm e}^{2 \pi i f t} {\tilde F}(f) df.
+\end{equation}
+
+We also introduce the Gaussian distribution:
+
+\begin{equation}
+f(x) = \frac{1}{\sqrt{2\pi \sigma^2}}\mathrm{e}^{-\frac{{(x - \mu)}^2}{2 \sigma^2}}
+\end{equation}
+
+\noindent where $\sigma$ is the variance and $\mu$ is the expected value for $x$.
+
+We further introduce the $\chi$-squared distribution: let $z_1, ..., z_k$ be $k$ independent, standard normal random variables, then the sum of their squares:
+
+\begin{equation}
+Q = \sum_{i=1}^{k} z_i^2
+\end{equation}
+
+\noindent is distributed according to the $\chi$-squared distribution with $k$ degrees of freedom. The probability distribution function of the $\chi$-squared distribution is given by:
+
+\begin{equation}
+    f(x, k)=\left\{  
+    \begin{array}{lc}
+        \frac{1}{2^{k/2} \Gamma(k/2)}x^{\frac{k}{2}-1} \mathrm{e}^{-x/2}, ~ ~ ~ ~ ~& x \geq 0\\
+        0, & \mbox{otherwise}
+    \end{array}
+    \right.
+\end{equation}
+
+\noindent where $\Gamma(k/2)$ denotes the Gamma--function.
+
+\bibliographystyle{unsrt}
+\bibliography{Bibliography}
+
+%\include{Notes}
+
+\end{document}

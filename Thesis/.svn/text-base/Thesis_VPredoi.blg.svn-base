@@ -1,0 +1,505 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: Thesis_VPredoi.aux
+A level-1 auxiliary file: conventions.aux
+A level-1 auxiliary file: Chapters/Chapter1.aux
+A level-1 auxiliary file: Chapters/Chapter2.aux
+A level-1 auxiliary file: Chapters/Chapter3.aux
+A level-1 auxiliary file: Chapters/Chapter4.aux
+A level-1 auxiliary file: Chapters/Chapter5.aux
+A level-1 auxiliary file: Chapters/Chapter6.aux
+A level-1 auxiliary file: Chapters/Chapter7.aux
+A level-1 auxiliary file: Chapters/Chapter8.aux
+The style file: unsrt.bst
+Reallocated field_info (elt_size=4) to 10313 items from 5000.
+Database file #1: Bibliography.bib
+Repeated entry---line 7221 of file Bibliography.bib
+ : @article{Abadie:2010px
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7264 of file Bibliography.bib
+ : @article{Predoi:2009af
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7423 of file Bibliography.bib
+ : @article{ABIQ04
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7472 of file Bibliography.bib
+ : @article{AIQS06a
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8075 of file Bibliography.bib
+ : @article{Bliving
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10615 of file Bibliography.bib
+ : @book{MTW
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11448 of file Bibliography.bib
+ : @article{ShibTan06
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11753 of file Bibliography.bib
+ : @misc{virgo
+ :            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11757 of file Bibliography.bib
+ : @book{Wainstein
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12128 of file Bibliography.bib
+ : @article{Owen96
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12143 of file Bibliography.bib
+ : @article{OwenSathyaprakash98
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12203 of file Bibliography.bib
+ : @article{Chernoff:1993th
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12242 of file Bibliography.bib
+ : @article{Acernese:2006bj
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12644 of file Bibliography.bib
+ : @article{Allen:2004gu
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12672 of file Bibliography.bib
+ : @article{Willke:2007zz
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12714 of file Bibliography.bib
+ : @article{Jaranowski:1998qm
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12730 of file Bibliography.bib
+ : @article{Abadie:2010uf
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12747 of file Bibliography.bib
+ : @article{Collaboration:2009kk
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12764 of file Bibliography.bib
+ : @article{Abbott:2007rh
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12812 of file Bibliography.bib
+ : @article{Abadie:2010yba
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12828 of file Bibliography.bib
+ : @article{Abbott:2009qj
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12861 of file Bibliography.bib
+ : @article{Abbott:2009tt
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12877 of file Bibliography.bib
+ : @article{Abbott:2009nc
+ :                       ,
+I'm skipping whatever remains of this entry
+I was expecting a `{' or a `('---line 12880 of file Bibliography.bib
+ :      title     = "{Einstein@home 
+ :                                  search for periodic gravitational waves in
+I'm skipping whatever remains of this entry
+Repeated entry---line 12973 of file Bibliography.bib
+ : @phdthesis{Hanna:2008
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13009 of file Bibliography.bib
+ : @article{Allen:2005fk
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13021 of file Bibliography.bib
+ : @article{Nakar:2007
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13034 of file Bibliography.bib
+ : @article{Hannam:2009hh
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13065 of file Bibliography.bib
+ : avlligowebsite
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13070 of file Bibliography.bib
+ : advvirgowebsite
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13075 of file Bibliography.bib
+ : lcgtwebsite
+ :            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13114 of file Bibliography.bib
+ : @article{Blackburn:2008ah
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13129 of file Bibliography.bib
+ : @article{Shibata:2007zm
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13195 of file Bibliography.bib
+ : @techreport{LIGOS3S4Tuning
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13205 of file Bibliography.bib
+ : @article{Abbott:2009ws
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13221 of file Bibliography.bib
+ : @article{Collaboration:2009rfa
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13308 of file Bibliography.bib
+ : @article{Abadie:2010px
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13743 of file Bibliography.bib
+ : @article{Harry:2010fr
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13758 of file Bibliography.bib
+ : @article{Chernoff:1993th
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13833 of file Bibliography.bib
+ : @article{Abbott:2007kv
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14110 of file Bibliography.bib
+ : @article{Abbott:2009qj
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring Garrett:2009gp's extra "journal" field
+--line 14394 of file Bibliography.bib
+Repeated entry---line 14428 of file Bibliography.bib
+ : @article{Collaboration:2009kk
+ :                              ,
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring Lazio:2009xe's extra "journal" field
+--line 14521 of file Bibliography.bib
+Repeated entry---line 14554 of file Bibliography.bib
+ : @article{Abbott:2007rh
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14688 of file Bibliography.bib
+ : @article{Berger:2010qx
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 14881 of file Bibliography.bib
+ : @article{Acernese:2006bj
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15000 of file Bibliography.bib
+ : @article{weisberg:2004
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15419 of file Bibliography.bib
+ : @article{Phinney:1991ei
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15722 of file Bibliography.bib
+ : @misc{Allen:2005fk
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15923 of file Bibliography.bib
+ : @book{Saulson:1994
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16873 of file Bibliography.bib
+ : @article{Blanchet:2004ek
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 16973 of file Bibliography.bib
+ : @article{Blanchet:2002av
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17387 of file Bibliography.bib
+ : @techreport{LIGOS3S4Tuning
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17509 of file Bibliography.bib
+ : @article{Biswas:2007ni
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17924 of file Bibliography.bib
+ : @article{nakar07
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18164 of file Bibliography.bib
+ : @article{Gehrels:2006tk
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18523 of file Bibliography.bib
+ : @article{Abbott:2007kv
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18962 of file Bibliography.bib
+ : @article{Collaboration:2009tt
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18979 of file Bibliography.bib
+ : @article{Abbott:2009qj
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 19598 of file Bibliography.bib
+ : @misc{Collaboration:2009kk
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 21543 of file Bibliography.bib
+ : @techreport{Allen:1996
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 21595 of file Bibliography.bib
+ : @article{weisberg:2004
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 21830 of file Bibliography.bib
+ : @article{Owen:1998dk
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 21863 of file Bibliography.bib
+ : @article{Phinney:1991ei
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 22157 of file Bibliography.bib
+ : @techreport{Adhikari:2003
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 22242 of file Bibliography.bib
+ : @book{Saulson:1994
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 22951 of file Bibliography.bib
+ : @article{1987MNRAS.224..131S
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 23158 of file Bibliography.bib
+ : @article{Blanchet:2004ek
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 23258 of file Bibliography.bib
+ : @article{Blanchet:2002av
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 23343 of file Bibliography.bib
+ : @article{Blanchet:2001dw
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 23504 of file Bibliography.bib
+ : @article{LIGOS3S4Tuning
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 24252 of file Bibliography.bib
+ : @article{Blackburn:2008ah
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 24666 of file Bibliography.bib
+ : @article{Allen:2004gu
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 24681 of file Bibliography.bib
+ : @article{Abbott:2009tt
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 24714 of file Bibliography.bib
+ : @article{Abadie:2010uf
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 24811 of file Bibliography.bib
+ : @article{Phinney:1991ei
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 24853 of file Bibliography.bib
+ : @article{Veitch:2009hd
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 24870 of file Bibliography.bib
+ : @article{Biswas:2007ni
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 24912 of file Bibliography.bib
+ : @article{Ofek:2006pr
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 24928 of file Bibliography.bib
+ : @article{Ofek:2007th
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 25066 of file Bibliography.bib
+ : @article{Fairhurst:2009tc
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 25095 of file Bibliography.bib
+ : @article{Fairhurst:2010is
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 25223 of file Bibliography.bib
+ : @misc{heasarc
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 25553 of file Bibliography.bib
+ : @article{Baiotti:2008ra
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 25683 of file Bibliography.bib
+ : @article{Abbott:2009tt
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 26158 of file Bibliography.bib
+ : @article{Campana:2006qe
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 26859 of file Bibliography.bib
+ : @article{Rezzolla:2010fd
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 27445 of file Bibliography.bib
+ : @article{Biswas:2007ni
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 27463 of file Bibliography.bib
+ : @article{Blackburn:2008ah
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 28003 of file Bibliography.bib
+ : @misc{VIRGO
+ :            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 28974 of file Bibliography.bib
+ : @article{Virgo
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 30401 of file Bibliography.bib
+ : @article{Nakar07
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 31474 of file Bibliography.bib
+ : @article{Gehrels:2006tk
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 31660 of file Bibliography.bib
+ : @article{Allen:2005fk
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 31693 of file Bibliography.bib
+ : @article{Collaboration:2009tt
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 31738 of file Bibliography.bib
+ : @article{Shibata:2007zm
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 32030 of file Bibliography.bib
+ : @article{Burrows:2006ar
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 32054 of file Bibliography.bib
+ : @article{Harry:2010fr
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 32069 of file Bibliography.bib
+ : @article{Allen:2004gu
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 32083 of file Bibliography.bib
+ : @phdthesis{Hanna:2008
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 32144 of file Bibliography.bib
+ : @article{Blanchet:2004ek
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 32250 of file Bibliography.bib
+ : @article{Predoi:2011aa
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 32289 of file Bibliography.bib
+ : @article{Dalal:2006qt
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 32337 of file Bibliography.bib
+ : @article{Rezzolla:2011da
+ :                         ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 32579 of file Bibliography.bib
+ : 
+ : %      eprint         = "1012.5101",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 32586 of file Bibliography.bib
+ : @article{Lipunov:1996wf
+ :                        ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 32604 of file Bibliography.bib
+ : 
+ : %      eprint         = "1012.5101",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty title in heasarc
+Warning--empty journal in heasarc
+Warning--empty year in heasarc
+Warning--empty journal in Centrella:2011nh
+Warning--empty journal in Ofek:2007th
+Warning--empty journal in Hurley:1999ym
+Warning--empty title in abbottgrb05
+Warning--empty year in lofar_case
+Warning--empty journal in laz
+Warning--empty journal in Mandel:2011au
+Warning--empty institution in LIGOS3S4Tuning
+Warning--empty journal in Blanchet:2001dw
+Warning--empty title in berger05
+Warning--empty title in kulkarni98
+Warning--empty title in galama98
+Warning--empty title in iwamoto98
+Warning--empty title in fox05
+Warning--empty journal in Kiziltan:2010ct
+Warning--empty journal in Ozel:2012ax
+You've used 231 entries,
+            1791 wiz_defined-function locations,
+            1710 strings with 40608 characters,
+and the built_in function-call counts, 48611 in all, are:
+= -- 3828
+> -- 2697
+< -- 8
++ -- 1008
+- -- 777
+* -- 3325
+:= -- 8250
+add.period$ -- 654
+call.type$ -- 231
+change.case$ -- 201
+chr.to.int$ -- 0
+cite$ -- 250
+duplicate$ -- 1990
+empty$ -- 4679
+format.name$ -- 777
+if$ -- 10529
+int.to.chr$ -- 0
+int.to.str$ -- 231
+missing$ -- 212
+newline$ -- 1119
+num.names$ -- 220
+pop$ -- 476
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 900
+stack$ -- 0
+substring$ -- 2975
+swap$ -- 259
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 19
+while$ -- 380
+width$ -- 234
+write$ -- 2373
+(There were 106 error messages)

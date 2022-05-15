@@ -1,0 +1,138 @@
+\relax 
+\citation{berger05}
+\citation{kulkarni98,galama98,iwamoto98}
+\citation{GuPi:05,fox05}
+\citation{abbottgrb05,burstGrbS234,Ac_etal:07,Ac_etal:08}
+\citation{lvc:s6grb}
+\citation{Abadie:2012bz}
+\citation{Abbott:2007rh}
+\@writefile{toc}{\contentsline {chapter}{\numberline {7}Search for gravitational waves associated with the InterPlanetary Network gamma-ray bursts -- analysis}{163}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{Chapter Seven}{{7}{163}}
+\@writefile{toc}{\contentsline {section}{\numberline {7.1}Introduction}{163}}
+\newlabel{sec:intro}{{7.1}{163}}
+\acronymused{GW}
+\citation{Predoi:2011aa}
+\citation{Predoi:2011aa}
+\acronymused{CBC}
+\acronymused{GW}
+\acronymused{CBC}
+\acronymused{GW}
+\acronymused{CBC}
+\acronymused{CBC}
+\acronymused{CBC}
+\citation{Harry:2010fr}
+\citation{Hurley:1999ym}
+\citation{Predoi:2011aa}
+\citation{heasarc}
+\acronymused{GW}
+\acronymused{GW}
+\acronymused{CBC}
+\@writefile{toc}{\contentsline {section}{\numberline {7.2}Gamma-ray burst sample}{165}}
+\citation{heasarc}
+\citation{integral}
+\citation{heasarc}
+\citation{integral}
+\citation{Harry:2010fr}
+\citation{OwenSathyaprakash98}
+\citation{lvc:s6grb}
+\@writefile{toc}{\contentsline {section}{\numberline {7.3}Search Methodology}{166}}
+\newlabel{sec:method}{{7.3}{166}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3.1}Overview}{166}}
+\citation{lvc:s6grb}
+\citation{Predoi:2011aa}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.1}{\ignorespaces (Left figure) Light curve for GRB060203 obtained using data from the RHESSI mission: gamma photons counts on the $y$--axis versus time in seconds on the $x$ axis; the photons are detected in three different energy bands: 25--120, 120--400, 400--1500 keV and we observe a narrow single peak in the medium energy band indicative of a (possible) short GRB. Image reproduced from \cite  {heasarc}. Together with the short durations, light curves represent strong proofs of the short hard nature of the GRBs in the sample. (Right figure) Light curve for GRB060103 (120--400 keV band), displaying a somewhat flat top structure. The width is roughly 2 s wide and the peak is steep, good indicators for a short burst. Image reproduced from \cite  {integral}.}}{167}}
+\newlabel{two_light_curves}{{7.1}{167}}
+\citation{Predoi:2011aa}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3.2}Searching the error box}{168}}
+\citation{Harry:2010fr}
+\citation{Allen:2004gu,Harry:2010fr,Hanna:2008}
+\citation{Brady:2004gt,Biswas:2007ni}
+\citation{lvc:s6grb}
+\citation{lvc:s6grb}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.2}{\ignorespaces  A typical IPN GRB error box populated with search points: the search points are firstly distributed along the central line of the IPN annulus, at 1.8 degrees relative distance; if the annulus is wide enough to permit, a square 2--D grid with a 1.8$\times $1.8 degrees cell is built across the error box. This ensures an even search for signals. For illustration purposes only, we are showing the error box for GRB070921B, a long burst with a large error box, constructed from the intersection of Konus ecliptic band and Earth constraint; the error box contains a considerable number of search points.}}{169}}
+\newlabel{ipn_search}{{7.2}{169}}
+\citation{lvc:s6grb}
+\citation{Kiziltan:2010ct,Ozel:2012ax}
+\citation{Ferrari:2009bw,0264-9381-27-11-114002,lrr-2011-6}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.3}{\ignorespaces  A typical IPN GRB error box populated with simulation points: the simulation points are firstly distributed along the central line of the IPN annulus, at 0.2 degrees relative distance; a square 2--D grid with a 0.2$\times $0.2 degrees cell is built across the error box. Then simulation points are randomly thrown in each bin centered at each point and sides equal to 0.2 degrees. The distribution of these points follows a 1-- or 2--dimensional Gaussian, depending on the number of IPN annuli: the width of the distribution corresponds to the width of the IPN annulus so that there are proportionally more simulation points thrown towards the center line of the annulus where the signal is expected to be found. In the case of two annuli, the 2--D Gaussian has the widths of the two IPN annuli. Here we see the distribution of simulation points for two intersecting IPN annuli, for GRB060522C, a short hard burst: there are more points towards the center of the intersection region and less towards the outer edge; the narrow IPN annulus intersecting the wider one will allow for an assymetric 2--D Gaussian distribution of simulation points, with more throws inside the narrow annulus and less inside the wider one.}}{171}}
+\newlabel{ipn_simulations}{{7.3}{171}}
+\citation{Abbott:2009tt}
+\citation{Abadie:2010px}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3.3}Single chirp mass bin [0,8.0) $M_{\odot }$}{172}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3.4}Distance exclusion}{172}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.4}{\ignorespaces (Left figure) Noise triggers (red) and simulations triggers (black) in an SNR--$\mathcal  {M}$ diagram for an example GRB analysis. This clearly shows that the population of triggers with $\mathcal  {M}>8.0$ is dominated by noise (with the exception of a very loud glitch with SNR$\approx $575 and chirp mass just below 8). A limit on chirp mass 8.0 was thereafter used in the IPN GRB search. (Right figure) Background events shown in a coherent SNR -- chirp mass diagram; here an example where a set of loud background glitches were removed based on their chirp mass (the loud glitch from left plot is beyond the SNR scale).}}{173}}
+\newlabel{chirptest}{{7.4}{173}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.5}{\ignorespaces The efficiency of finding injections as a function of distance to the source (percentage of ``found'' injections vs. distance). The pipeline is considered efficient up to an injection recovery percentage of 90\%, limit that gives us the confidence level lower limit on the distance to the GRB progenitor, here 37.6 Mpc. The green curve is un--marginalized, the red one is marginalized over the waveform and calibration errors, and the pink one includes counting (binomial) errors as well (since we did only a finite number of injections).}}{174}}
+\newlabel{distance_excl_stats}{{7.5}{174}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3.5}H1H2--only GRBs}{174}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.6}{\ignorespaces  A typical H1H2--only IPN GRB large error box populated with simulation points (here the short hard burst GRB061001): a large error box is constructed by the intersection of a single IPN annulus and Earth constraint, and populated with simulation points, with more points towards the center and less towards the edges of the error box.}}{175}}
+\newlabel{h1h2_ipn_simulations}{{7.6}{175}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3.6}GRB090802A, a testbed for the IPN analysis}{175}}
+\citation{lvc:s6grb}
+\citation{lvc:s6grb}
+\citation{lvc:s6grb}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.7}{\ignorespaces (Left figure) GRB090802A: IPN localization (intersection of two IPN annuli, green shaded region) and initial Fermi--GBM error box (right small circle), with Earth constraint visible on the right; the GBM localization was shifted as a result of reprocessing the data to a final position shown on the right. Right ascension (RA) in hours and declination (dec) in J2000 degrees (courtesy of Kevin Hurley). (Right figure) GRB090802A: positional error box and GW search points. The error box is the result of the intersection of two IPN annuli (triangulated using timing information from Konus--WIND, INTEGRAL and Fermi--GBM; shown here with continuous line and center radii with dashed lines) and the Fermi--GBM 3--$\sigma $ error contour (the irregular shape, approximated with a systematic errors circle with a radius 4.9 degrees). The red points represent the GW search points.}}{176}}
+\newlabel{090802_IPN}{{7.7}{176}}
+\@writefile{toc}{\contentsline {section}{\numberline {7.4}Significance of FAP population}{176}}
+\newlabel{sec:fappop}{{7.4}{176}}
+\citation{lvc:s6grb}
+\citation{lvc:s6grb}
+\@writefile{toc}{\contentsline {section}{\numberline {7.5}Results}{178}}
+\newlabel{sec:results}{{7.5}{178}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.8}{\ignorespaces Cumulative FAP distribution from the analysis of 12 IPN GRBs. The expected distribution under the no--signal hypothesis is indicated by the dashed line.}}{178}}
+\newlabel{fig:binomialTestCBC}{{7.8}{178}}
+\citation{Abadie:2010uf}
+\citation{Abadie:2010uf}
+\citation{gwgc,White:2011qf}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.9}{\ignorespaces Median exclusion distances of CBC sources as a function of half-opening angle, sampled at 10$^\circ $, 30$^\circ $, 45$^\circ $, and 90$^\circ $. The medians are computed over the set of 12 analyzed short IPN GRBs, for both NS--NS and NS--BH, at 90\% confidence level.}}{180}}
+\newlabel{fig:dist_excl_opening}{{7.9}{180}}
+\@writefile{toc}{\contentsline {section}{\numberline {7.6}Possible host galaxies for two of the IPN GRBs}{180}}
+\@writefile{lot}{\contentsline {table}{\numberline {7.1}{\ignorespaces Exclusion distances for four different jet opening angles $\theta $ for the two astrophysically--motivated short GRB progenitor models: binary NS or NS--BH; for the NS--NS case the median distance (at $30^\circ $ jet opening angle) is 18 Mpc; for the NS--BH case the median distance (at $30^\circ $ jet opening angle) is 31 Mpc.}}{180}}
+\newlabel{excl_dist_angles}{{7.1}{180}}
+\citation{gwgc}
+\citation{gwgc}
+\citation{gwgc}
+\citation{gwgc}
+\citation{ned}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.10}{\ignorespaces Histograms across the sample of short GRBs of the distance exclusions at the 90\% confidence level for NS--NS and NS--BH systems. See Table 7.2\hbox {} for the exclusion values for each short GRB.}}{181}}
+\newlabel{fig:dist_insp}{{7.10}{181}}
+\citation{gwgc,ned}
+\citation{ned}
+\citation{Cappellaro:1995ht}
+\citation{gwgc,ned}
+\citation{gwgc,ned}
+\citation{gwgc,ned}
+\citation{gwgc,ned}
+\citation{Harry:2010fr}
+\newlabel{ipngrb_galaxies}{{7.6}{182}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.11}{\ignorespaces (Left figure) GRB070414 search points and nearby galaxies. Full circles represent the GW search points and empty circles represent galaxy locations, with $x$--axis RA and $y$--axis dec in J2000d degrees. Galaxy positions obtained from \cite  {gwgc}. (Right figure) GRB070321 search points and nearby galaxies. Full circles represent the GW search points and empty circles represent galaxy locations, with $x$--axis RA and $y$--axis dec in J2000d degrees. Galaxy positions obtained from \cite  {gwgc}}}{182}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.12}{\ignorespaces (Left figure) GRB070414 and nearby galaxy PGC004601 (Andromeda II): the IPN annulus intersects the outer regions of the galaxy error box. The GRB search point is located at RA=18.7719194 degrees, dec=33.5563965 degrees, with the galaxy center at RA=19.12407 degrees, dec=33.41910 degrees and galactic apparent size of 3.6$\times $2.52 arcminutes. $x$--axis represents RA and $y$--axis represents dec in J2000d degrees \cite  {gwgc, ned}. (Right figure) GRB070321 and nearby galaxy NGC5878 (SN1988h): unfortunately, the IPN annulus does not intersect the outer regions of the galaxy error box. The GRB search point is located at RA=228.4346539, dec=-14.5788967 degrees, with the galaxy center at RA=228.440458, dec=-14.269833 and galactic apparent size of 3.5$\times $1.4 arcminutes. $x$--axis represents RA and $y$--axis represents dec in J2000d degrees \cite  {gwgc, ned}.}}{183}}
+\newlabel{ipngalaxies_search_point}{{7.12}{183}}
+\@writefile{toc}{\contentsline {section}{\numberline {7.7}Conclusion}{183}}
+\newlabel{sec:conclusion}{{7.7}{183}}
+\@writefile{lot}{\contentsline {table}{\numberline {7.2}{\ignorespaces  The short S5/VSR1 IPN GRB sample analyzed at the time of this writing: 12 bursts with data from multiple non--H1H2--only GW detectors and well localized (error box area $\Delta A <$100$\nobreakspace  {}\mathrm  {deg}^2$); results show the 90\% exclusion distances (Mpc) for both possible progenitor models, either NS--NS or NS--BH for a jet--opening angle of 30$^\circ $. The IPN satellites that observed the bursts: S - Suzaku, Sw - \emph  {Swift}, I - INTEGRAL, M - MESSENGER, MO - Mars Odyssey, K - Konus-WIND, H - HESSI (RHESSI).}}{185}}
+\newlabel{tab:shortGRB}{{7.2}{185}}
+\newlabel{tab:ipn_grb_results}{{7.7}{185}}
+\@setckpt{Chapters/Chapter7}{
+\setcounter{page}{186}
+\setcounter{equation}{2}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{7}
+\setcounter{section}{7}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{12}
+\setcounter{table}{2}
+\setcounter{NAT@ctr}{0}
+\setcounter{parentequation}{114}
+}

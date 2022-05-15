@@ -1,0 +1,124 @@
+\relax 
+\citation{Owen:1998dk,Maggiore:gw}
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Gravitational waves data analysis: theoretical aspects}{68}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{Chapter Three}{{3}{68}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Introduction}{68}}
+\acronymused{CBC}
+\acronymused{GW}
+\acronymused{GW}
+\citation{Maggiore:gw}
+\citation{Abbott:2009qj}
+\citation{Harry:2011qh}
+\citation{Wainstein}
+\citation{OwenSathyaprakash98,LIGOS3S4Tuning,Owen:1998dk,Babak:2006ty}
+\acronymused{GW}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Matched--filtering}{69}}
+\newlabel{matched_filtering_theory}{{3.2}{69}}
+\acronymused{GW}
+\acronymused{GW}
+\citation{Maggiore:gw}
+\citation{Wainstein,Maggiore:gw}
+\citation{Christensen:2004kh,Blackburn:2008ah}
+\undonewlabel{acro:SNR}
+\newlabel{acro:SNR}{{3.2}{70}}
+\acronymused{SNR}
+\acronymused{SNR}
+\acronymused{SNR}
+\acronymused{SNR}
+\citation{Veitch:2009hd}
+\acronymused{SNR}
+\acronymused{SNR}
+\acronymused{SNR}
+\newlabel{MFsnr}{{3.14}{72}}
+\acronymused{SNR}
+\acronymused{SNR}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}The likelihood function: coincident and coherent analyses}{73}}
+\newlabel{coincident_coherent_theory}{{3.3}{73}}
+\newlabel{lambdalikelihood}{{3.20}{73}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Coincident signal--to--noise ratio}{73}}
+\newlabel{coincident_SNR_theory}{{3.3.1}{73}}
+\newlabel{eq:h_amp_phase2}{{3.23}{74}}
+\newlabel{eq:cbc_lowsnr}{{3.27}{74}}
+\citation{Wainstein}
+\citation{Harry:2010fr}
+\newlabel{eq:cbc_fouriermagic}{{3.28}{75}}
+\acronymused{SNR}
+\newlabel{eq:coinc_snr}{{3.29}{75}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}Coherent signal--to--noise ratio}{75}}
+\newlabel{coherent_SNR_theory}{{3.3.2}{75}}
+\newlabel{eq:h_plus_cross}{{3.30}{75}}
+\newlabel{eq:amplitude_def}{{3.31}{76}}
+\newlabel{eq:aplus_across}{{3.32}{76}}
+\newlabel{eq:h_t}{{3.33}{76}}
+\newlabel{eq:inspiral_wave}{{3.34}{76}}
+\newlabel{eq:fourh_def}{{3.35}{76}}
+\newlabel{eq:hmu}{{3.35}{76}}
+\citation{Harry:2011qh}
+\newlabel{eq:multi_log_lambda}{{3.36}{77}}
+\newlabel{eq:multi_det_lambda}{{3.37}{77}}
+\acronymused{SNR}
+\newlabel{eq:multi_det_max_lambda}{{3.40}{77}}
+\acronymused{SNR}
+\acronymused{SNR}
+\acronymused{SNR}
+\acronymused{SNR}
+\citation{Owen96}
+\newlabel{eq:fstat_plus_cross}{{3.41}{78}}
+\acronymused{SNR}
+\acronymused{SNR}
+\acronymused{SNR}
+\acronymused{SNR}
+\acronymused{SNR}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Template Bank}{78}}
+\newlabel{template_bank_theory}{{3.4}{78}}
+\citation{Jaranowski:2007pe,Babak:2006ty}
+\citation{Owen96}
+\citation{Owen96}
+\newlabel{ethincametric}{{3.44}{79}}
+\citation{Robinson:2008un}
+\citation{Robinson:2008un}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Left figure: template bank in $m_2$ vs. $m_1$ -- the $m_2$ is the mass of the larger component. Right figure: template bank in $\tau _3$ vs. $\tau _0$. The templates are more evenly distributed in $\tau _0$ vs. $\tau _3$ space; this is because the parameter space is approximately flat in $\tau _0$ and $\tau _3$, as discussed .}}{80}}
+\newlabel{tauL1}{{3.1}{80}}
+\citation{Allen:2004gu}
+\citation{Harry:2011qh,ian}
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}The $\chi ^2$ test}{81}}
+\newlabel{chisq_theory}{{3.5}{81}}
+\citation{Allen:2004gu}
+\newlabel{eq:chi2}{{3.50}{82}}
+\acronymused{SNR}
+\citation{Harry:2011qh,ian}
+\citation{Abadie:2010cg}
+\acronymused{GW}
+\@writefile{toc}{\contentsline {section}{\numberline {3.6}Horizon distance}{83}}
+\newlabel{horizon_distance_theory}{{3.6}{83}}
+\citation{Macleod:2011up}
+\newlabel{range}{{3.59}{84}}
+\newlabel{spa}{{3.61}{84}}
+\citation{Abadie:2010cg}
+\citation{Abadie:2010cg}
+\newlabel{range0}{{3.62}{85}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Mean inspiral horizon distance as a function of component mass for the four gravitational wave detectors H1, L1, H2 and V1 during all of S5 and VSR1 science runs. The error bars attached to the points indicate the standard deviation in the inspiral horizon over the course of each of the weeks of the science runs; the error bars extend from one standard deviation below to one standard deviation above the mean. Image first published and reproduced from \cite  {Abadie:2010cg}}}{85}}
+\newlabel{rangevmass}{{3.2}{85}}
+\@setckpt{Chapters/Chapter3}{
+\setcounter{page}{87}
+\setcounter{equation}{62}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{3}
+\setcounter{section}{6}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{2}
+\setcounter{table}{0}
+\setcounter{NAT@ctr}{0}
+\setcounter{parentequation}{114}
+}

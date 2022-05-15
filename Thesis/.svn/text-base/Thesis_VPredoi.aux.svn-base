@@ -1,0 +1,312 @@
+\relax 
+\reset@newl@bel
+\undonewlabel{acro:GW}
+\newlabel{acro:GW}{{}{iv}}
+\acronymused{GW}
+\acronymused{GW}
+\citation{Weisberg:2004hi}
+\citation{Abadie:2010px}
+\citation{Sathyaprakash:2009xs}
+\citation{ian}
+\citation{Abadie:2010yba}
+\citation{Abadie:2010px}
+\acronymused{GW}
+\acronymused{GW}
+\citation{Postigo:2010ij}
+\citation{Nemiroff:1993vi}
+\citation{Abadie:2010cg}
+\citation{gcn9864}
+\citation{konus}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\citation{Abadie:2010yb,Colaboration:2011nz}
+\citation{HurleyHTML}
+\citation{heasarc}
+\citation{integral}
+\citation{gwgc}
+\citation{gwgc}
+\citation{gwgc,ned}
+\citation{gwgc,ned}
+\citation{Predoi:2009af}
+\citation{Abadie:2010uf}
+\citation{lvc:s6grb}
+\citation{Predoi:2011aa}
+\@writefile{toc}{\contentsline {paragraph}{Results Disclaimer}{xx}}
+\newacro{LIGO}[LIGO]{Laser Interferometer Gravitational-wave Observatory}
+\newacro{CBC}[CBC]{compact binary coalescence}
+\newacro{S6}[S6]{LIGO's sixth science run}
+\newacro{VSR23}[VSR2 and VSR3]{Virgo's second and third science runs}
+\newacro{EM}[EM]{electromagnetic}
+\newacro{GW}[GW]{gravitational waves}
+\newacro{NS}[NS]{neutron star}
+\newacro{BNS}[BNS]{binary neutron stars}
+\newacro{NSBH}[NSBH]{neutron star--black hole binary}
+\newacro{GRB}[GRB]{gamma-ray burst}
+\newacro{SHB}[SHB]{short hard gamma-ray burst}
+\newacro{S5}[S5]{LIGO's fifth science run}
+\newacro{S4}[S4]{LIGO's fourth science run}
+\newacro{VSR1}[VSR1]{Virgo's first science run}
+\newacro{PSD}[PSD]{power spectral density}
+\newacro{VSR3}[VSR3]{Virgo's third science run}
+\newacro{BBH}[BBH]{binary black holes}
+\newacro{SNR}[SNR]{signal-to-noise ratio}
+\newacro{SPA}[SPA]{stationary-phase approximation}
+\newacro{LHO}[LHO]{LIGO Hanford Observatory}
+\newacro{LLO}[LLO]{LIGO Livingston Observatory}
+\newacro{LSC}[LSC]{LIGO Scientific Collaboration}
+\newacro{PN}[PN]{Post-Newtonian}
+\newacro{DQ}[DQ]{data quality}
+\newacro{IFO}[IFO]{interferometer}
+\newacro{IMR}[IMR]{inspiral, merger and ringdown}
+\newacro{EOB}[EOB]{effective one body}
+\newacro{DTF}[DTF]{detection template families}
+\newacro{FAR}[FAR]{false alarm rate}
+\newacro{FAP}[FAP]{false alarm probability}
+\newacro{PTF}[PTF]{physical template family}
+\newacro{LISA}[LISA]{Laser Interferometer Space Antenna}
+\newacro{EMRI}[EMRI]{extreme mass-ratio inspiral}
+\@input{conventions.aux}
+\@input{Chapters/Chapter1.aux}
+\@input{Chapters/Chapter2.aux}
+\@input{Chapters/Chapter3.aux}
+\@input{Chapters/Chapter4.aux}
+\@input{Chapters/Chapter5.aux}
+\@input{Chapters/Chapter6.aux}
+\@input{Chapters/Chapter7.aux}
+\@input{Chapters/Chapter8.aux}
+\bibstyle{unsrt}
+\bibdata{Bibliography}
+\newlabel{Appendix}{{8}{189}}
+\bibcite{Weisberg:2004hi}{{1}{}{{}}{{}}}
+\bibcite{Abadie:2010px}{{2}{}{{}}{{}}}
+\bibcite{Sathyaprakash:2009xs}{{3}{}{{}}{{}}}
+\bibcite{ian}{{4}{}{{}}{{}}}
+\bibcite{Abadie:2010yba}{{5}{}{{}}{{}}}
+\bibcite{Postigo:2010ij}{{6}{}{{}}{{}}}
+\bibcite{Nemiroff:1993vi}{{7}{}{{}}{{}}}
+\bibcite{Abadie:2010cg}{{8}{}{{}}{{}}}
+\bibcite{gcn9864}{{9}{}{{}}{{}}}
+\bibcite{konus}{{10}{}{{}}{{}}}
+\bibcite{Abadie:2010yb}{{11}{}{{}}{{}}}
+\bibcite{Colaboration:2011nz}{{12}{}{{}}{{}}}
+\bibcite{HurleyHTML}{{13}{}{{}}{{}}}
+\bibcite{heasarc}{{14}{}{{}}{{}}}
+\bibcite{integral}{{15}{}{{}}{{}}}
+\bibcite{gwgc}{{16}{}{{}}{{}}}
+\bibcite{ned}{{17}{}{{}}{{}}}
+\bibcite{Predoi:2009af}{{18}{}{{}}{{}}}
+\bibcite{Abadie:2010uf}{{19}{}{{}}{{}}}
+\bibcite{lvc:s6grb}{{20}{}{{}}{{}}}
+\bibcite{Predoi:2011aa}{{21}{}{{}}{{}}}
+\bibcite{Schutz:2010xm}{{22}{}{{}}{{}}}
+\bibcite{Blanchet:2004ek}{{23}{}{{}}{{}}}
+\bibcite{Baker:2006yw}{{24}{}{{}}{{}}}
+\bibcite{Ott:2006qp}{{25}{}{{}}{{}}}
+\bibcite{Burrows:2005dv}{{26}{}{{}}{{}}}
+\bibcite{Collaboration:2009kk}{{27}{}{{}}{{}}}
+\bibcite{Abbott:2009zi}{{28}{}{{}}{{}}}
+\bibcite{Abbott:2009zd}{{29}{}{{}}{{}}}
+\bibcite{Abbott:2009up}{{30}{}{{}}{{}}}
+\bibcite{Allen:1996vm}{{31}{}{{}}{{}}}
+\bibcite{Abbott:2009ws}{{32}{}{{}}{{}}}
+\bibcite{Abbott:2006zx}{{33}{}{{}}{{}}}
+\bibcite{Abbott:2003hr}{{34}{}{{}}{{}}}
+\bibcite{Regimbau:2011rp}{{35}{}{{}}{{}}}
+\bibcite{Abbott:2008fx}{{36}{}{{}}{{}}}
+\bibcite{Jaranowski:1998qm}{{37}{}{{}}{{}}}
+\bibcite{Collaboration:2009rfa}{{38}{}{{}}{{}}}
+\bibcite{Abbott:2009nc}{{39}{}{{}}{{}}}
+\bibcite{Abbott:2008rg}{{40}{}{{}}{{}}}
+\bibcite{Hulse:1974eb}{{41}{}{{}}{{}}}
+\bibcite{Kramer:2006nb}{{42}{}{{}}{{}}}
+\bibcite{Kim:2006fm}{{43}{}{{}}{{}}}
+\bibcite{Nature:0804}{{44}{}{{}}{{}}}
+\bibcite{Sivaram:2008jy}{{45}{}{{}}{{}}}
+\bibcite{MTW}{{46}{}{{}}{{}}}
+\bibcite{Sch85}{{47}{}{{}}{{}}}
+\bibcite{Maggiore:gw}{{48}{}{{}}{{}}}
+\bibcite{1999physics8041C}{{49}{}{{}}{{}}}
+\bibcite{Mckechan:2010}{{50}{}{{}}{{}}}
+\bibcite{Bro04}{{51}{}{{}}{{}}}
+\bibcite{Buonanno:2009zt}{{52}{}{{}}{{}}}
+\bibcite{Bliving}{{53}{}{{}}{{}}}
+\bibcite{Saulson:1994}{{54}{}{{}}{{}}}
+\bibcite{Allen:2005fk}{{55}{}{{}}{{}}}
+\bibcite{1987MNRAS.224..131S}{{56}{}{{}}{{}}}
+\bibcite{Blackburn:2008ah}{{57}{}{{}}{{}}}
+\bibcite{Accadia:2010zzb}{{58}{}{{}}{{}}}
+\bibcite{Accadia:2010zz}{{59}{}{{}}{{}}}
+\bibcite{lcgtwebsite}{{60}{}{{}}{{}}}
+\bibcite{Gillespie:1993vg}{{61}{}{{}}{{}}}
+\bibcite{Abbott:2007kv}{{62}{}{{}}{{}}}
+\bibcite{virgo}{{63}{}{{}}{{}}}
+\bibcite{Acernese:2006bj}{{64}{}{{}}{{}}}
+\bibcite{Willke:2007zz}{{65}{}{{}}{{}}}
+\bibcite{TAMA_status}{{66}{}{{}}{{}}}
+\bibcite{avlligowebsite}{{67}{}{{}}{{}}}
+\bibcite{Harry:2010zz}{{68}{}{{}}{{}}}
+\bibcite{advvirgowebsite}{{69}{}{{}}{{}}}
+\bibcite{Waldman:2011vg}{{70}{}{{}}{{}}}
+\bibcite{Fairhurst:2009tc}{{71}{}{{}}{{}}}
+\bibcite{Fairhurst:2010is}{{72}{}{{}}{{}}}
+\bibcite{Centrella:2011nh}{{73}{}{{}}{{}}}
+\bibcite{Metzger:2011bv}{{74}{}{{}}{{}}}
+\bibcite{Harry:2010fr}{{75}{}{{}}{{}}}
+\bibcite{Holz:2002cn}{{76}{}{{}}{{}}}
+\bibcite{Chernoff:1993th}{{77}{}{{}}{{}}}
+\bibcite{Veitch:2009hd}{{78}{}{{}}{{}}}
+\bibcite{Abbott:2007rh}{{79}{}{{}}{{}}}
+\bibcite{0264-9381-25-22-225001}{{80}{}{{}}{{}}}
+\bibcite{Ofek:2007th}{{81}{}{{}}{{}}}
+\bibcite{Ofek:2006pr}{{82}{}{{}}{{}}}
+\bibcite{Costa:1997ji}{{83}{}{{}}{{}}}
+\bibcite{Nakar:2007}{{84}{}{{}}{{}}}
+\bibcite{Qinx:2010kp}{{85}{}{{}}{{}}}
+\bibcite{Kouveliotou:1993yx}{{86}{}{{}}{{}}}
+\bibcite{Gehrels:2006tk}{{87}{}{{}}{{}}}
+\bibcite{McBreen:2001fd}{{88}{}{{}}{{}}}
+\bibcite{Campana:2006qe}{{89}{}{{}}{{}}}
+\bibcite{Galama:1998ea}{{90}{}{{}}{{}}}
+\bibcite{Hjorth:2003jt}{{91}{}{{}}{{}}}
+\bibcite{Malesani:2004sg}{{92}{}{{}}{{}}}
+\bibcite{ACST94}{{93}{}{{}}{{}}}
+\bibcite{Kiuchi:2010ze}{{94}{}{{}}{{}}}
+\bibcite{Veres:2010yf}{{95}{}{{}}{{}}}
+\bibcite{Ripa:2009xs}{{96}{}{{}}{{}}}
+\bibcite{Norris:2011tt}{{97}{}{{}}{{}}}
+\bibcite{Berger:2010qx}{{98}{}{{}}{{}}}
+\bibcite{Paczynski:1986px}{{99}{}{{}}{{}}}
+\bibcite{Belczynski:2006br}{{100}{}{{}}{{}}}
+\bibcite{Troja:2007kt}{{101}{}{{}}{{}}}
+\bibcite{Capozziello:2010sm}{{102}{}{{}}{{}}}
+\bibcite{Kelley:2010qx}{{103}{}{{}}{{}}}
+\bibcite{Pedersen:2005kh}{{104}{}{{}}{{}}}
+\bibcite{Nakar:2007xe}{{105}{}{{}}{{}}}
+\bibcite{Woosley:2006fn}{{106}{}{{}}{{}}}
+\bibcite{Prochaska:2005qf}{{107}{}{{}}{{}}}
+\bibcite{Amati:2002ny}{{108}{}{{}}{{}}}
+\bibcite{Mirabel:2003st}{{109}{}{{}}{{}}}
+\bibcite{MNR:MNR12923}{{110}{}{{}}{{}}}
+\bibcite{Nutzman:2004bw}{{111}{}{{}}{{}}}
+\bibcite{Phinney:1991ei}{{112}{}{{}}{{}}}
+\bibcite{Shibata:2005mz}{{113}{}{{}}{{}}}
+\bibcite{Duez:2005cj}{{114}{}{{}}{{}}}
+\bibcite{ShibTan06}{{115}{}{{}}{{}}}
+\bibcite{Shibata:2007zm}{{116}{}{{}}{{}}}
+\bibcite{Rezzolla:2011da}{{117}{}{{}}{{}}}
+\bibcite{Oechslin:2005mw}{{118}{}{{}}{{}}}
+\bibcite{Davies:2005}{{119}{}{{}}{{}}}
+\bibcite{Rezzolla:2010fd}{{120}{}{{}}{{}}}
+\bibcite{Baiotti:2008ra}{{121}{}{{}}{{}}}
+\bibcite{NickThesis}{{122}{}{{}}{{}}}
+\bibcite{NakarReview:2007}{{123}{}{{}}{{}}}
+\bibcite{ABIQ04}{{124}{}{{}}{{}}}
+\bibcite{AIQS06a}{{125}{}{{}}{{}}}
+\bibcite{Granot:2010iq}{{126}{}{{}}{{}}}
+\bibcite{Burrows:2006ar}{{127}{}{{}}{{}}}
+\bibcite{swiftdatasheet}{{128}{}{{}}{{}}}
+\bibcite{fermisite2}{{129}{}{{}}{{}}}
+\bibcite{Hurley:2002wv}{{130}{}{{}}{{}}}
+\bibcite{Hurley:1999ym}{{131}{}{{}}{{}}}
+\bibcite{Schanne:2010fu}{{132}{}{{}}{{}}}
+\bibcite{Kyutoku:2011vz}{{133}{}{{}}{{}}}
+\bibcite{lrr-2006-3}{{134}{}{{}}{{}}}
+\bibcite{Dalal:2006qt}{{135}{}{{}}{{}}}
+\bibcite{Nakar:2002un}{{136}{}{{}}{{}}}
+\bibcite{abbottgrb05}{{137}{}{{}}{{}}}
+\bibcite{burstGrbS234}{{138}{}{{}}{{}}}
+\bibcite{Ac_etal:07}{{139}{}{{}}{{}}}
+\bibcite{Ac_etal:08}{{140}{}{{}}{{}}}
+\bibcite{Abadie:2012bz}{{141}{}{{}}{{}}}
+\bibcite{Howell:2010hm}{{142}{}{{}}{{}}}
+\bibcite{crab}{{143}{}{{}}{{}}}
+\bibcite{Flanagan:2006}{{144}{}{{}}{{}}}
+\bibcite{Buchner:2008}{{145}{}{{}}{{}}}
+\bibcite{Clark:2007}{{146}{}{{}}{{}}}
+\bibcite{Lazio:2009xe}{{147}{}{{}}{{}}}
+\bibcite{Garrett:2009gp}{{148}{}{{}}{{}}}
+\bibcite{lofar_case}{{149}{}{{}}{{}}}
+\bibcite{Patterson:2008ie}{{150}{}{{}}{{}}}
+\bibcite{Mason:2009dq}{{151}{}{{}}{{}}}
+\bibcite{Lommen:2000yt}{{152}{}{{}}{{}}}
+\bibcite{BurkeSpolaor:2009rm}{{153}{}{{}}{{}}}
+\bibcite{Hessels:2007ct}{{154}{}{{}}{{}}}
+\bibcite{weisberg:2004}{{155}{}{{}}{{}}}
+\bibcite{Blanchet:2002av}{{156}{}{{}}{{}}}
+\bibcite{Collaboration:2009tt}{{157}{}{{}}{{}}}
+\bibcite{Abbott:2009qj}{{158}{}{{}}{{}}}
+\bibcite{Bogomazov:2009wj}{{159}{}{{}}{{}}}
+\bibcite{magnetar_catalog}{{160}{}{{}}{{}}}
+\bibcite{Popov:2005wh}{{161}{}{{}}{{}}}
+\bibcite{Lipunov:1996wf}{{162}{}{{}}{{}}}
+\bibcite{ATNF}{{163}{}{{}}{{}}}
+\bibcite{Nice:1998dn}{{164}{}{{}}{{}}}
+\bibcite{Hansen:2000am}{{165}{}{{}}{{}}}
+\bibcite{Duez:2005sg}{{166}{}{{}}{{}}}
+\bibcite{Duez:2005sf}{{167}{}{{}}{{}}}
+\bibcite{Moortgat:2005fs}{{168}{}{{}}{{}}}
+\bibcite{Moortgat:2004xz}{{169}{}{{}}{{}}}
+\bibcite{Soderberg:2006bn}{{170}{}{{}}{{}}}
+\bibcite{Moortgat:2003jh}{{171}{}{{}}{{}}}
+\bibcite{Usov:2000yr}{{172}{}{{}}{{}}}
+\bibcite{nakar07}{{173}{}{{}}{{}}}
+\bibcite{Sadowski:2007dz}{{174}{}{{}}{{}}}
+\bibcite{ott:201102}{{175}{}{{}}{{}}}
+\bibcite{Hyman:2005ng}{{176}{}{{}}{{}}}
+\bibcite{turolla}{{177}{}{{}}{{}}}
+\bibcite{Zhu:2005yh}{{178}{}{{}}{{}}}
+\bibcite{Lorimer11022007}{{179}{}{{}}{{}}}
+\bibcite{pulsar_book}{{180}{}{{}}{{}}}
+\bibcite{thompson}{{181}{}{{}}{{}}}
+\bibcite{skadoc}{{182}{}{{}}{{}}}
+\bibcite{palmer}{{183}{}{{}}{{}}}
+\bibcite{laz}{{184}{}{{}}{{}}}
+\bibcite{Macquart:2007kv}{{185}{}{{}}{{}}}
+\bibcite{Virgo:2011aa}{{186}{}{{}}{{}}}
+\bibcite{Mandel:2011au}{{187}{}{{}}{{}}}
+\bibcite{Owen:1998dk}{{188}{}{{}}{{}}}
+\bibcite{Harry:2011qh}{{189}{}{{}}{{}}}
+\bibcite{Wainstein}{{190}{}{{}}{{}}}
+\bibcite{OwenSathyaprakash98}{{191}{}{{}}{{}}}
+\bibcite{LIGOS3S4Tuning}{{192}{}{{}}{{}}}
+\bibcite{Babak:2006ty}{{193}{}{{}}{{}}}
+\bibcite{Christensen:2004kh}{{194}{}{{}}{{}}}
+\bibcite{Owen96}{{195}{}{{}}{{}}}
+\bibcite{Jaranowski:2007pe}{{196}{}{{}}{{}}}
+\bibcite{Robinson:2008un}{{197}{}{{}}{{}}}
+\bibcite{Allen:2004gu}{{198}{}{{}}{{}}}
+\bibcite{Macleod:2011up}{{199}{}{{}}{{}}}
+\bibcite{gcns}{{200}{}{{}}{{}}}
+\bibcite{070429b}{{201}{}{{}}{{}}}
+\bibcite{Cenko:2008vt}{{202}{}{{}}{{}}}
+\bibcite{Allen:1996}{{203}{}{{}}{{}}}
+\bibcite{Adhikari:2003}{{204}{}{{}}{{}}}
+\bibcite{Blanchet:2001dw}{{205}{}{{}}{{}}}
+\bibcite{Abbott:2009tt}{{206}{}{{}}{{}}}
+\bibcite{Hanna:2008}{{207}{}{{}}{{}}}
+\bibcite{Hannam:2009hh}{{208}{}{{}}{{}}}
+\bibcite{Mukhopadhyay:2009qh}{{209}{}{{}}{{}}}
+\bibcite{Was:2009vh}{{210}{}{{}}{{}}}
+\bibcite{gcn9760}{{211}{}{{}}{{}}}
+\bibcite{Abbott:2009dk}{{212}{}{{}}{{}}}
+\bibcite{suzaku}{{213}{}{{}}{{}}}
+\bibcite{swift}{{214}{}{{}}{{}}}
+\bibcite{virgostatus}{{215}{}{{}}{{}}}
+\bibcite{berger05}{{216}{}{{}}{{}}}
+\bibcite{kulkarni98}{{217}{}{{}}{{}}}
+\bibcite{galama98}{{218}{}{{}}{{}}}
+\bibcite{iwamoto98}{{219}{}{{}}{{}}}
+\bibcite{GuPi:05}{{220}{}{{}}{{}}}
+\bibcite{fox05}{{221}{}{{}}{{}}}
+\bibcite{Brady:2004gt}{{222}{}{{}}{{}}}
+\bibcite{Biswas:2007ni}{{223}{}{{}}{{}}}
+\bibcite{Kiziltan:2010ct}{{224}{}{{}}{{}}}
+\bibcite{Ozel:2012ax}{{225}{}{{}}{{}}}
+\bibcite{Ferrari:2009bw}{{226}{}{{}}{{}}}
+\bibcite{0264-9381-27-11-114002}{{227}{}{{}}{{}}}
+\bibcite{lrr-2011-6}{{228}{}{{}}{{}}}
+\bibcite{White:2011qf}{{229}{}{{}}{{}}}
+\bibcite{Cappellaro:1995ht}{{230}{}{{}}{{}}}
+\bibcite{Evans:2012hd}{{231}{}{{}}{{}}}
+\providecommand\NAT@force@numbers{}\NAT@force@numbers
